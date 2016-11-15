@@ -19,11 +19,23 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 # Datasets
 
-* Arnet Miner
-* Microsoft Academic Graph
-* CiteSeer
-* PubMed
+## Publication
+* [Arnet Miner](http://aminer.org/citation)
+* [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/)
+* [CiteSeer](http://csxstatic.ist.psu.edu/about/data)
+* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
+* [CORA datasets](https://people.cs.umass.edu/~mccallum/data.html)
+* [CrossRef DOI URLs](https://archive.org/details/doi-urls)
+* [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
+* [NBER Patent Citations](http://nber.org/patents/)
+* [Scopus Citation Database](https://www.elsevier.com/solutions/scopus)
+* [Papers, patents, and grants from Indiana University](http://iv.slis.indiana.edu/db/index.html)
+* [Small Network Data - Mark Newman's Lab](http://www-personal.umich.edu/~mejn/netdata/)
+* [The Koblenz Network Collection](http://konect.uni-koblenz.de/)
 
+## Academic Genealogy
+* [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
+* [Academic Tree - Cross discipline academic genealogies](http://academictree.org)
 
 # Code
 
