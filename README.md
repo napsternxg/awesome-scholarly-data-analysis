@@ -35,15 +35,52 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Google Scholar citation relations](http://www3.cs.stonybrook.edu/~leman/data/gscholar.db)
 * [Open citations project](http://opencitations.net/)
 * [Wikicite Project](https://meta.wikimedia.org/wiki/WikiCite)
+* [Ecnonomic Papers](http://repec.org/)
+* [ArXiv data dump](https://arxiv.org/help/bulk_data)
+* [Complete ACL anthology as bibtex file](http://aclanthology.info/anthology.bib)
+* [astrophysics data system - All physics papers](https://ui.adsabs.harvard.edu/)
+
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
 * [Academic Tree - Cross discipline academic genealogies](http://academictree.org)
+* [MPACT project - Library Sciences](http://www.ibiblio.org/mpact/)
+* [PhDTree](http://phdtree.org/)
+* [Chemistry Genealogy - curated at UIUC](http://www.scs.illinois.edu/~mainzv/Web_Genealogy/index.php)
+* [Notre Dame Genealogy Project](http://library.nd.edu/physics/resources/genealogy/genealogyproject.shtml)
+* [UIUC Chemistry, Chemical Engineering, and Biochemistry](http://www.scs.illinois.edu/alumnilist/)
+* [Software Engineering Academic Genealogy](http://web.engr.illinois.edu/~taoxie/sefamily.htm)
+* [Other lists of genealogy projects](http://libguides.caltech.edu/c.php?g=512661&p=3502496)
+* [Wikipedia - Computer Science Genealogy](https://en.wikipedia.org/wiki/Academic_genealogy_of_computer_scientists)
+* [Wikipedia - Theorecical Physicits Genealogy](https://en.wikipedia.org/wiki/Academic_genealogy_of_theoretical_physicists)
+* [Wikipedia - Chemists Genealogy](https://en.wikipedia.org/wiki/Academic_genealogy_of_chemists)
+* [SCIENTIFIC GENEALOGY MASTER LIST - Scientists Associated with Concepts in Chemistry & Physics](http://www.careerchem.com/NAMED/Genealogy-List.pdf)
+* [Economic Geneology](http://www-personal.umich.edu/~alandear/tree/INDEX.HTM) [Text Format](http://www-personal.umich.edu/~alandear/tree/Tree-In.txt)
+
+
+## Author Profiles
+* [Temporal profiles of PubMed authors](http://abel.lis.illinois.edu/legolas/)
+* [ORCID data dump](https://orcid.org/content/download-file)
+* [National Library of Medicine Profiles](https://profiles.nlm.nih.gov/)
+* [UIUC Professors database - Publications, Affiliations](https://experts.illinois.edu/)
+* [Author Profiles of scholarly authors in Wikipedia](https://tools.wmflabs.org/scholia/)
+
+## Thesis datasets
+* [Open Access Theses and Dissertations](https://oatd.org/)
+* [The Networked Digital Library of Theses and Dissertations (NDLTD)](http://www.ndltd.org/)
+* [PhD Dissertations in the Area of Software Engineering](http://www.sigsoft.org/dissertations.php)
+
+
 
 # Code
+* [CiteSeer tools](https://github.com/SeerLabs)
+* [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
 
-TODO
 
 # Papers
 
 TODO
+
+
+# Visualizations
+* [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
