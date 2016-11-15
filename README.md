@@ -19,7 +19,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 # Datasets
 
-## Publication
+## Publication and Citation
 * [Arnet Miner](http://aminer.org/citation)
 * [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/)
 * [CiteSeer](http://csxstatic.ist.psu.edu/about/data)
@@ -32,6 +32,9 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Papers, patents, and grants from Indiana University](http://iv.slis.indiana.edu/db/index.html)
 * [Small Network Data - Mark Newman's Lab](http://www-personal.umich.edu/~mejn/netdata/)
 * [The Koblenz Network Collection](http://konect.uni-koblenz.de/)
+* [Google Scholar citation relations](http://www3.cs.stonybrook.edu/~leman/data/gscholar.db)
+* [Open citations project](http://opencitations.net/)
+* [Wikicite Project](https://meta.wikimedia.org/wiki/WikiCite)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
