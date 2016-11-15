@@ -38,7 +38,9 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Ecnonomic Papers](http://repec.org/)
 * [ArXiv data dump](https://arxiv.org/help/bulk_data)
 * [Complete ACL anthology as bibtex file](http://aclanthology.info/anthology.bib)
-* [astrophysics data system - All physics papers](https://ui.adsabs.harvard.edu/)
+* [Astrophysics data system (ADS) - All physics papers](https://ui.adsabs.harvard.edu/)
+* [CORE 37M full text open access papers](https://core.ac.uk/services#dataset)
+* [Inspire database for high energy physics articles](http://inspirehep.net/?ln=en)
 
 
 ## Academic Genealogy
@@ -84,3 +86,10 @@ TODO
 
 # Visualizations
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
+
+# Publication Venues
+
+## Journals
+TODO
+## Conferences
+TODO
