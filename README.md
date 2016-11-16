@@ -41,6 +41,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Astrophysics data system (ADS) - All physics papers](https://ui.adsabs.harvard.edu/)
 * [CORE 37M full text open access papers](https://core.ac.uk/services#dataset)
 * [Inspire database for high energy physics articles](http://inspirehep.net/?ln=en)
+* [Scholarly Data of workshops and conferences in RDF triplets](http://www.scholarlydata.org/)
 
 
 ## Academic Genealogy
