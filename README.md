@@ -98,8 +98,6 @@ TODO
 
 # Tools
 
-* [infolis: linking research data and publications](http://infolis.github.io/)
-
 ## User interface to publication datasets
 
 * [Google Scholar](https://scholar.google.com/)
@@ -110,6 +108,7 @@ TODO
 * [ACL Anthology](http://aclanthology.info/)
 * [NIPS papers](https://papers.nips.cc/)
 * [Abel tools for PubMed data](http://abel.lis.illinois.edu/resources.html)
+* [infolis: linking research data and publications](http://infolis.github.io/)
 
 ## Visualizations
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
