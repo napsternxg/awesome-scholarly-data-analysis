@@ -42,6 +42,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [CORE 37M full text open access papers](https://core.ac.uk/services#dataset)
 * [Inspire database for high energy physics articles](http://inspirehep.net/?ln=en)
 * [Scholarly Data of workshops and conferences in RDF triplets](http://www.scholarlydata.org/)
+* [The Collection of Computer Science Bibliographies](http://liinwww.ira.uka.de/bibliography/)
 
 
 ## Academic Genealogy
@@ -72,7 +73,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Open Access Theses and Dissertations](https://oatd.org/)
 * [The Networked Digital Library of Theses and Dissertations (NDLTD)](http://www.ndltd.org/)
 * [PhD Dissertations in the Area of Software Engineering](http://www.sigsoft.org/dissertations.php)
-
+* [ProQuest Dissertations & Theses Global](http://www.proquest.com/products-services/pqdtglobal.html)
 
 
 # Code
@@ -85,7 +86,20 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 TODO
 
 
-# Visualizations
+# Tools
+
+## User interface to publication datasets
+
+* [Google Scholar](https://scholar.google.com/)
+* [Semantic Scholar](https://www.semanticscholar.org/)
+* [Microsoft Academic Graph](http://academic.research.microsoft.com/)
+* [AceMap](http://acemap.sjtu.edu.cn/)
+* [GitXiv](http://www.gitxiv.com/)
+* [ACL Anthology](http://aclanthology.info/)
+* [NIPS papers](https://papers.nips.cc/)
+* [Abel tools for PubMed data](http://abel.lis.illinois.edu/resources.html)
+
+## Visualizations
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 
 # Publication Venues
