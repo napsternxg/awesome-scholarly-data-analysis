@@ -13,8 +13,18 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 - [Awesome Scholarly Data Analysis](#awesome-scholarly-data-analysis)
 - [Table of Contents](#table-of-contents)
 - [Datasets](#datasets)
+	- [Publication and Citation](#publication-and-citation)
+	- [Academic Genealogy](#academic-genealogy)
+	- [Author Profiles](#author-profiles)
+	- [Thesis datasets](#thesis-datasets)
 - [Code](#code)
 - [Papers](#papers)
+- [Tools](#tools)
+	- [User interface to publication datasets](#user-interface-to-publication-datasets)
+	- [Visualizations](#visualizations)
+- [Publication Venues](#publication-venues)
+	- [Journals](#journals)
+	- [Conferences](#conferences)
 
 
 # Datasets
