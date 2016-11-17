@@ -88,6 +88,8 @@ TODO
 
 # Tools
 
+* [infolis: linking research data and publications](http://infolis.github.io/)
+
 ## User interface to publication datasets
 
 * [Google Scholar](https://scholar.google.com/)
