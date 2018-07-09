@@ -94,6 +94,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Related Work Summarization](https://github.com/WING-NUS/RelatedWorkSummarizationDataset)
 * [Biomedical NLP annotated datasets](https://www.ncbi.nlm.nih.gov/research/bionlp/Data/)
 * [Chemical compound and drug name recognition task](http://www.biocreative.org/tasks/biocreative-iv/chemdner/)
+* [Semantic Scholar Dataset](https://allenai.org/data/data-all.html)
 
 
 # Code
