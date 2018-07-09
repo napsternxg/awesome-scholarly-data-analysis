@@ -32,6 +32,8 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 ## Publication and Citation
 * [Arnet Miner](http://aminer.org/citation)
 * [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/)
+* [Open Academic Graph](https://www.openacademic.ai/oag/) - MAG + AMiner
+* [Semantic Scholar Corpus](http://labs.semanticscholar.org/corpus/)
 * [CiteSeer](http://csxstatic.ist.psu.edu/about/data)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
 * [CORA datasets](https://people.cs.umass.edu/~mccallum/data.html)
@@ -84,6 +86,12 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [The Networked Digital Library of Theses and Dissertations (NDLTD)](http://www.ndltd.org/)
 * [PhD Dissertations in the Area of Software Engineering](http://www.sigsoft.org/dissertations.php)
 * [ProQuest Dissertations & Theses Global](http://www.proquest.com/products-services/pqdtglobal.html)
+
+## Information Extraction & NLP
+* [Citation Parsing](http://csxstatic.ist.psu.edu/about/scholarly-information-extraction)
+* [Document Summarization](https://github.com/WING-NUS/scisumm-corpus)
+* [Keyphrase Extraction](https://github.com/snkim/AutomaticKeyphraseExtraction)
+* [Related Work Summarization](https://github.com/WING-NUS/RelatedWorkSummarizationDataset)
 
 
 # Code
