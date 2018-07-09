@@ -97,6 +97,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 # Code
 * [CiteSeer tools](https://github.com/SeerLabs)
 * [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
+* [Science-Parse](https://github.com/allenai/science-parse)
 
 
 # Papers
