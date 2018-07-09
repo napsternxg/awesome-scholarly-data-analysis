@@ -93,6 +93,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Keyphrase Extraction](https://github.com/snkim/AutomaticKeyphraseExtraction)
 * [Related Work Summarization](https://github.com/WING-NUS/RelatedWorkSummarizationDataset)
 * [Biomedical NLP annotated datasets](https://www.ncbi.nlm.nih.gov/research/bionlp/Data/)
+* [Chemical compound and drug name recognition task](http://www.biocreative.org/tasks/biocreative-iv/chemdner/)
 
 
 # Code
