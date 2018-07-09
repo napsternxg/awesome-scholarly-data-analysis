@@ -92,6 +92,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Document Summarization](https://github.com/WING-NUS/scisumm-corpus)
 * [Keyphrase Extraction](https://github.com/snkim/AutomaticKeyphraseExtraction)
 * [Related Work Summarization](https://github.com/WING-NUS/RelatedWorkSummarizationDataset)
+* [Biomedical NLP annotated datasets](https://www.ncbi.nlm.nih.gov/research/bionlp/Data/)
 
 
 # Code
