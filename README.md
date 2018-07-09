@@ -97,6 +97,10 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Semantic Scholar Dataset](https://allenai.org/data/data-all.html)
 * [ScienceIE](https://scienceie.github.io/)
 
+## Taxonomies and Ontologies
+* [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
+* [Medical Subject Headings](https://meshb.nlm.nih.gov/search)
+
 
 # Code
 * [CiteSeer tools](https://github.com/SeerLabs)
