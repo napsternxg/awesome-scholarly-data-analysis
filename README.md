@@ -7,24 +7,26 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 
 # Table of Contents
-
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
 - [Awesome Scholarly Data Analysis](#awesome-scholarly-data-analysis)
 - [Table of Contents](#table-of-contents)
 - [Datasets](#datasets)
-	- [Publication and Citation](#publication-and-citation)
-	- [Academic Genealogy](#academic-genealogy)
-	- [Author Profiles](#author-profiles)
-	- [Thesis datasets](#thesis-datasets)
+  * [Publication and Citation](#publication-and-citation)
+  * [Academic Genealogy](#academic-genealogy)
+  * [Author Profiles](#author-profiles)
+  * [Author name disambiguation](#author-name-disambiguation)
+  * [Thesis datasets](#thesis-datasets)
+  * [Information Extraction and NLP](#information-extraction-and-nlp)
+  * [Taxonomies and Ontologies](#taxonomies-and-ontologies)
 - [Code](#code)
 - [Papers](#papers)
 - [Tools](#tools)
-	- [User interface to publication datasets](#user-interface-to-publication-datasets)
-	- [Visualizations](#visualizations)
+  * [User interface to publication datasets](#user-interface-to-publication-datasets)
+  * [Visualizations](#visualizations)
 - [Publication Venues](#publication-venues)
-	- [Journals](#journals)
-	- [Conferences](#conferences)
+  * [Journals](#journals)
+  * [Conferences](#conferences)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Datasets
@@ -94,7 +96,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [PhD Dissertations in the Area of Software Engineering](http://www.sigsoft.org/dissertations.php)
 * [ProQuest Dissertations & Theses Global](http://www.proquest.com/products-services/pqdtglobal.html)
 
-## Information Extraction & NLP
+## Information Extraction and NLP
 * [Citation Parsing](http://csxstatic.ist.psu.edu/about/scholarly-information-extraction)
 * [Document Summarization](https://github.com/WING-NUS/scisumm-corpus)
 * [Keyphrase Extraction](https://github.com/snkim/AutomaticKeyphraseExtraction)
