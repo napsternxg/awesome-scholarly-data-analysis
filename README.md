@@ -81,6 +81,13 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [UIUC Professors database - Publications, Affiliations](https://experts.illinois.edu/)
 * [Author Profiles of scholarly authors in Wikipedia](https://tools.wmflabs.org/scholia/)
 
+## Author name disambiguation
+* [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
+* [Lee Giles dataset](http://clgiles.ist.psu.edu/data/nameset_author-disamb.tar.zip)
+* [Cleaner version of Lee Giles dataset](https://figshare.com/articles/DBLPderived_labeled_data_for_author_name_disambiguation/6840281)
+* [DBLP Korean](http://www.lbd.dcc.ufmg.br/lbd/collections/disambiguation/DBLP.tar.gz/at_download/file)
+* [Arnet Miner](http://arnetminer.org/lab-datasets/disambiguation/rich-author-disambiguation-data.zip)
+
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
 * [The Networked Digital Library of Theses and Dissertations (NDLTD)](http://www.ndltd.org/)
