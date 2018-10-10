@@ -136,6 +136,10 @@ TODO
 * [Abel tools for PubMed data](http://abel.lis.illinois.edu/resources.html)
 * [infolis: linking research data and publications](http://infolis.github.io/)
 
+## Tools for collecting open access papers
+
+* [ContentMine - getpapers](https://github.com/ContentMine/getpapers)
+
 ## Visualizations
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 
