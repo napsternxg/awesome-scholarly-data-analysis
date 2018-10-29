@@ -52,6 +52,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Ecnonomic Papers](http://repec.org/)
 * [ArXiv data dump](https://arxiv.org/help/bulk_data)
 * [Complete ACL anthology as bibtex file](http://aclanthology.info/anthology.bib)
+* [ACL Anthology Reference Corpus](http://acl-arc.comp.nus.edu.sg/)
 * [Astrophysics data system (ADS) - All physics papers](https://ui.adsabs.harvard.edu/)
 * [CORE 37M full text open access papers](https://core.ac.uk/services#dataset)
 * [Inspire database for high energy physics articles](http://inspirehep.net/?ln=en)
@@ -106,10 +107,18 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Chemical compound and drug name recognition task](http://www.biocreative.org/tasks/biocreative-iv/chemdner/)
 * [Semantic Scholar Dataset](https://allenai.org/data/data-all.html)
 * [ScienceIE](https://scienceie.github.io/)
+* [ACL RD TEC 2.0](http://pars.ie/lr/acl_rd-tec) also at [@CLARIN](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1661)
+* [SEPID Corpus - Segmended ACL ARC 1.0](http://pars.ie/lr/sepid-corpus)
+
+## Networks
+
+* [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
 
 ## Taxonomies and Ontologies
 * [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
 * [Medical Subject Headings](https://meshb.nlm.nih.gov/search)
+* [Computer Science Ontology](https://cso.kmi.open.ac.uk/home)
+* [Physics Subject Headings](https://physh.aps.org/)
 
 
 # Code
