@@ -153,6 +153,10 @@ TODO
 ## Visualizations
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 
+## Word embeddings
+
+* [Biomedical - BioSentVec](https://github.com/ncbi-nlp/BioSentVec)
+
 # Publication Venues
 
 ## Journals
