@@ -109,6 +109,11 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [ScienceIE](https://scienceie.github.io/)
 * [ACL RD TEC 2.0](http://pars.ie/lr/acl_rd-tec) also at [@CLARIN](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1661)
 * [SEPID Corpus - Segmended ACL ARC 1.0](http://pars.ie/lr/sepid-corpus)
+* [PubMed Central Open Access - BioC](https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PMC/)
+* [PubMed Fulltext - protein-protein and genetic interactions](http://bioc.sourceforge.net/BioC-BioGRID.html)
+* [BioNLP - Argo](http://argo.nactem.ac.uk/bioc/)
+* [Biomedical NLP - Stav](http://corpora.informatik.hu-berlin.de/)
+* [Biomedical sentence simplification](https://research.bioinformatics.udel.edu/isimp/corpus.html)
 
 ## Networks
 
