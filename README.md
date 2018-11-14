@@ -134,11 +134,6 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Science-Parse](https://github.com/allenai/science-parse)
 
 
-# Papers
-
-TODO
-
-
 # Tools
 
 ## User interface to publication datasets
@@ -160,13 +155,21 @@ TODO
 ## Visualizations
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 
-## Word embeddings
+## NLP
 
-* [Biomedical - BioSentVec](https://github.com/ncbi-nlp/BioSentVec)
+* [Biomedical - BioSentVec Embeddings](https://github.com/ncbi-nlp/BioSentVec)
+* [NIH scientific paper pre-processing](https://github.com/NIHOPA/NLPre)
 
 # Publication Venues
 
 ## Journals
-TODO
+* [Frontiers in Research Metrics and Analytics](https://www.frontiersin.org/journals/research-metrics-and-analytics) 
+* [Scientometrics](https://link.springer.com/journal/11192) 
+
+
 ## Conferences
 TODO
+
+## Workshops
+* [SIGMET - Metrics workshop](https://www.asist.org/SIG/SIGMET/workshop/)
+* [International Workshop on Mining Scientific Publications](https://wosp.core.ac.uk/)
