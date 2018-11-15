@@ -58,6 +58,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Inspire database for high energy physics articles](http://inspirehep.net/?ln=en)
 * [Scholarly Data of workshops and conferences in RDF triplets](http://www.scholarlydata.org/)
 * [The Collection of Computer Science Bibliographies](http://liinwww.ira.uka.de/bibliography/)
+* [COCI Doi-Doi citation data](https://figshare.com/articles/Crossref_Open_Citation_Index_CSV_dataset_of_all_the_citation_data/6741422/2)
 
 
 ## Academic Genealogy
