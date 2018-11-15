@@ -115,7 +115,8 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Biomedical NLP - Stav](http://corpora.informatik.hu-berlin.de/)
 * [Biomedical sentence simplification](https://research.bioinformatics.udel.edu/isimp/corpus.html)
 * [PubMed - Colorado Richly Annotated Full-Text](https://github.com/UCDenver-ccp/CRAFT)
-* [Biomedical NER datasets](https://github.com/cambridgeltl/MTL-Bioinformatics-2016/tree/master/data)
+* [Biomedical NER datasets](https://github.com/cambridgeltl/MTL-Bioinformatics-2016/tree/master/data) [related publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1776-8)
+* [BioVerbNet](https://github.com/cambridgeltl/bio-verbnet)
 
 ## Networks
 
@@ -159,6 +160,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 ## NLP
 
 * [Biomedical - BioSentVec Embeddings](https://github.com/ncbi-nlp/BioSentVec)
+* [Biomedical embeddings - CambridgeLTL](https://github.com/cambridgeltl/BioNLP-2016)
 * [NIH scientific paper pre-processing](https://github.com/NIHOPA/NLPre)
 
 # Publication Venues
