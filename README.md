@@ -115,6 +115,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Biomedical NLP - Stav](http://corpora.informatik.hu-berlin.de/)
 * [Biomedical sentence simplification](https://research.bioinformatics.udel.edu/isimp/corpus.html)
 * [PubMed - Colorado Richly Annotated Full-Text](https://github.com/UCDenver-ccp/CRAFT)
+* [Biomedical NER datasets](https://github.com/cambridgeltl/MTL-Bioinformatics-2016/tree/master/data)
 
 ## Networks
 
