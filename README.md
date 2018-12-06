@@ -16,15 +16,18 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Author name disambiguation](#author-name-disambiguation)
   * [Thesis datasets](#thesis-datasets)
   * [Information Extraction and NLP](#information-extraction-and-nlp)
+  * [Networks](#networks)
   * [Taxonomies and Ontologies](#taxonomies-and-ontologies)
 - [Code](#code)
-- [Papers](#papers)
 - [Tools](#tools)
   * [User interface to publication datasets](#user-interface-to-publication-datasets)
+  * [Tools for collecting open access papers](#tools-for-collecting-open-access-papers)
   * [Visualizations](#visualizations)
+  * [NLP](#nlp)
 - [Publication Venues](#publication-venues)
   * [Journals](#journals)
   * [Conferences](#conferences)
+  * [Workshops](#workshops)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -93,6 +96,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [DBLP Korean Authors](http://www.lbd.dcc.ufmg.br/lbd/collections/disambiguation/DBLP.tar.gz/at_download/file)
 * [Arnet Miner](http://arnetminer.org/lab-datasets/disambiguation/rich-author-disambiguation-data.zip)
 * [DBLP Name disambiguation dataset](https://github.com/yaya213/DBLP-Name-Disambiguation-Dataset)
+* [rexa-coref-data](https://github.com/tapilab/rexa-coref-data)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
