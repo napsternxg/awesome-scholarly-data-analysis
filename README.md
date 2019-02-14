@@ -124,6 +124,8 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Biomedical NER datasets](https://github.com/cambridgeltl/MTL-Bioinformatics-2016/tree/master/data) [related publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1776-8)
 * [BioVerbNet](https://github.com/cambridgeltl/bio-verbnet)
 * [Lunar and Planetary Science abstracts for NER and Relations](https://zenodo.org/record/1048419#.XAW0m2hKh3h)
+* [ACM data affiliations](https://dbs.uni-leipzig.de/en/research/projects/bibliometrics)
+* [ACM entity resolution](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution)
 
 ## Networks
 
