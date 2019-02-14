@@ -125,7 +125,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [BioVerbNet](https://github.com/cambridgeltl/bio-verbnet)
 * [Lunar and Planetary Science abstracts for NER and Relations](https://zenodo.org/record/1048419#.XAW0m2hKh3h)
 * [ACM data affiliations](https://dbs.uni-leipzig.de/en/research/projects/bibliometrics)
-* [ACM entity resolution](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution)
+* [ACM - DBLP database entry matching](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution)
 
 ## Networks
 
