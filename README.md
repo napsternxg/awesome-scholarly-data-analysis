@@ -132,6 +132,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [ACM data affiliations](https://dbs.uni-leipzig.de/en/research/projects/bibliometrics)
 * [ACM - DBLP database entry matching](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution)
 * [Colorado Richly Annotated Full-Text](https://github.com/UCDenver-ccp/CRAFT) - PubMed abstract annotated with entities mapped to 10 biomedical ontology terms. 
+* [CLEF datasets for multilingual Biomedical NLP+IE](https://sites.google.com/site/clefehealth/home)
 
 ## Networks
 
