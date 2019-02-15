@@ -126,6 +126,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Lunar and Planetary Science abstracts for NER and Relations](https://zenodo.org/record/1048419#.XAW0m2hKh3h)
 * [ACM data affiliations](https://dbs.uni-leipzig.de/en/research/projects/bibliometrics)
 * [ACM - DBLP database entry matching](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution)
+* [Colorado Richly Annotated Full-Text](https://github.com/UCDenver-ccp/CRAFT) - PubMed abstract annotated with entities mapped to 10 biomedical ontology terms. 
 
 ## Networks
 
