@@ -28,6 +28,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
+- [Summer Schools](#summer-schools)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -184,11 +185,19 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 ## Journals
 * [Frontiers in Research Metrics and Analytics](https://www.frontiersin.org/journals/research-metrics-and-analytics) 
 * [Scientometrics](https://link.springer.com/journal/11192) 
-
+* [Journal of Informetrics](https://www.journals.elsevier.com/journal-of-informetrics)
+* [Quantitative Science Studies](https://www.mitpressjournals.org/loi/qss) (Open Access)
 
 ## Conferences
-TODO
+* [Joint Conference on Digital Libraries (JCDL)](http://www.jcdl.org)
+* [International Conference on Theory and Practice of Digital Libraries (TPDL)](http://www.tpdl.eu)
+* [European Semantic Web Conference (ESWC), Research of Research Track](https://2019.eswc-conferences.org/call-for-papers-research-of-research-track/)
 
 ## Workshops
 * [SIGMET - Metrics workshop](https://www.asist.org/SIG/SIGMET/workshop/)
 * [International Workshop on Mining Scientific Publications](https://wosp.core.ac.uk/)
+* [Semantics, Analytics, Visualisation: Enhancing Scholarly Dissemination (SAVE-SD)](https://save-sd.github.io/2018/)
+* [Enabling Open Semantic Science (SemSci)](https://semsci.github.io/SemSci2018/)
+
+# Summer Schools
+* [CWTS Scientometrics Spring School (CS3)](https://www.cwts.nl/education/cwts-scientometrics-spring-school)
