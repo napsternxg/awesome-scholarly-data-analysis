@@ -28,6 +28,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
+- [Summer Schools](#summer-schools)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -197,3 +198,6 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [International Workshop on Mining Scientific Publications](https://wosp.core.ac.uk/)
 * [Semantics, Analytics, Visualisation: Enhancing Scholarly Dissemination (SAVE-SD)](https://save-sd.github.io/2018/)
 * [Enabling Open Semantic Science (SemSci)](https://semsci.github.io/SemSci2018/)
+
+# Summer Schools
+* [CWTS Scientometrics Spring School (CS3)](https://www.cwts.nl/education/cwts-scientometrics-spring-school)
