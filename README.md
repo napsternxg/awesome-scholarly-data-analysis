@@ -18,6 +18,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Information Extraction and NLP](#information-extraction-and-nlp)
   * [Networks](#networks)
   * [Taxonomies and Ontologies of Research Concepts](#taxonomies-and-ontologies-of-research-concepts)
+  * [Affiliations](#affiliations)
 - [Code](#code)
 - [Tools](#tools)
   * [User interface to publication datasets](#user-interface-to-publication-datasets)
@@ -156,7 +157,11 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Research Fields, Courses and Disciplines (RFCD)](http://www.abs.gov.au/ausstats/abs@.nsf/66f306f503e529a5ca25697e0017661f/955FFA4EB1B23847CA25697E0018FB14?opendocument) classification
   * [Socio-Economic Objective (SEO)](http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/CF7ADB06FA2DFD69CA2574180004CB82?opendocument) classification
 * [Library of Congress Classification (LCC)](https://www.loc.gov/catdir/cpso/lcc.html) maintained by [Library of Congress](https://www.loc.gov)
+* [Fields of Study (FoS)](https://academic.microsoft.com/#/topics/0/) maintained by [Microsoft Academic](https://academic.microsoft.com)
 
+## Affiliations
+
+* [Global Research Identifier Database (GRID)](www.grid.ac)
 
 # Code
 * [CiteSeer tools](https://github.com/SeerLabs)
@@ -187,6 +192,9 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [CSO-Classifier](https://github.com/angelosalatino/cso-classifier)
 
 ## Visualizations
+* [Rexplore](https://technologies.kmi.open.ac.uk/rexplore/)
+* [VOSviewer](http://www.vosviewer.com)
+* [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 
 ## NLP
