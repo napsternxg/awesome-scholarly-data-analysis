@@ -17,11 +17,13 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Thesis datasets](#thesis-datasets)
   * [Information Extraction and NLP](#information-extraction-and-nlp)
   * [Networks](#networks)
-  * [Taxonomies and Ontologies](#taxonomies-and-ontologies)
+  * [Taxonomies and Ontologies of Research Concepts](#taxonomies-and-ontologies-of-research-concepts)
+  * [Affiliations](#affiliations)
 - [Code](#code)
 - [Tools](#tools)
   * [User interface to publication datasets](#user-interface-to-publication-datasets)
   * [Tools for collecting open access papers](#tools-for-collecting-open-access-papers)
+  * [Tools for classifying research papers](#tools-for-classifying-research-papers)
   * [Visualizations](#visualizations)
   * [NLP](#nlp)
 - [Publication Venues](#publication-venues)
@@ -139,13 +141,27 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
 
-## Taxonomies and Ontologies
+## Taxonomies and Ontologies of Research Concepts
 * [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
-* [Medical Subject Headings](https://meshb.nlm.nih.gov/search)
-* [Computer Science Ontology](https://cso.kmi.open.ac.uk/home)
-* [Physics Subject Headings](https://physh.aps.org/)
-* [Open Biological and Biomedical Ontology (OBO) Foundry](http://obofoundry.org/)
+* [Medical Subject Headings](https://meshb.nlm.nih.gov/search) maintained by the [National Library of Medicine of the United States](https://www.nlm.nih.gov)
+* [Computer Science Ontology](https://cso.kmi.open.ac.uk/home) maintained by [Scholarly Knowledge: Modeling, Mining and Sense Making](http://skm.kmi.open.ac.uk)
+* [Physics Subject Headings](https://physh.aps.org/) maintained by [American Physical Society (APS)]()
+* [Open Biological and Biomedical Ontology (OBO)](http://obofoundry.org/) maintained by the [OBO Foundry](http://obofoundry.org)
+* [ACM Computing Classification System](https://www.acm.org/publications/class-2012) maintained by the [Association for Computing Machinery](https://www.acm.org)
+* [Physics and Astronomy Classification Scheme (PACS)](https://web.archive.org/web/20131122200802/http://www.aip.org/pacs/pacs2010/about.html) maintained by [American Institute of Physics (AIP)]() *discontinued* in 2010 and replaced by [Physics Subject Headings](https://physh.aps.org/)
+* [Mathematics Subject Classification (MSC)](https://mathscinet.ams.org/msc/msc2010.html) mantained by [Mathematical Reviews](http://www.ams.org/mr-database) and [zbMATH](https://zbmath.org)
+* [Journal of Economic Literature (JEL)](https://www.aeaweb.org/econlit/jelCodes.php) maintained by the [American Economic Association](https://www.aeaweb.org)
+* [STW Thesaurus for Economics](http://zbw.eu/stw/version/latest/about) maintained by [ZBW - Leibniz Information Centre for Economics](http://www.zbw.eu/de/)
+* [Australian and New Zealand Standard Research Classification (ANZSRC)](https://www.arc.gov.au/grants/grant-application/classification-codes-rfcd-seo-and-anzsic-codes) maintained by [Australian Bureau of Statistics](http://www.abs.gov.au), it consists of 3 sub-classification schemes:
+  * [Fields of Research (FoR)](http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/6BB427AB9696C225CA2574180004463E?opendocument) classification
+  * [Research Fields, Courses and Disciplines (RFCD)](http://www.abs.gov.au/ausstats/abs@.nsf/66f306f503e529a5ca25697e0017661f/955FFA4EB1B23847CA25697E0018FB14?opendocument) classification
+  * [Socio-Economic Objective (SEO)](http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/CF7ADB06FA2DFD69CA2574180004CB82?opendocument) classification
+* [Library of Congress Classification (LCC)](https://www.loc.gov/catdir/cpso/lcc.html) maintained by [Library of Congress](https://www.loc.gov)
+* [Fields of Study (FoS)](https://academic.microsoft.com/#/topics/0/) maintained by [Microsoft Academic](https://academic.microsoft.com)
 
+## Affiliations
+
+* [Global Research Identifier Database (GRID)](www.grid.ac)
 
 # Code
 * [CiteSeer tools](https://github.com/SeerLabs)
@@ -172,7 +188,14 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 * [ContentMine - getpapers](https://github.com/ContentMine/getpapers)
 
+## Tools for classifying research papers
+
+* [CSO-Classifier](https://github.com/angelosalatino/cso-classifier)
+
 ## Visualizations
+* [Rexplore](https://technologies.kmi.open.ac.uk/rexplore/)
+* [VOSviewer](http://www.vosviewer.com)
+* [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 
 ## NLP
@@ -198,6 +221,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [SIGMET - Metrics workshop](https://www.asist.org/SIG/SIGMET/workshop/)
 * [International Workshop on Mining Scientific Publications](https://wosp.core.ac.uk/)
 * [Semantics, Analytics, Visualisation: Enhancing Scholarly Dissemination (SAVE-SD)](https://save-sd.github.io/2018/)
+* [Workshop on Reframing Research (RefResh)](http://refresh.kmi.open.ac.uk)
 * [Enabling Open Semantic Science (SemSci)](https://semsci.github.io/SemSci2018/)
 
 # Summer Schools
