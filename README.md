@@ -226,3 +226,11 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 # Summer Schools
 * [CWTS Scientometrics Spring School (CS3)](https://www.cwts.nl/education/cwts-scientometrics-spring-school)
+
+
+
+# Contributions
+The following people have contributed to the items on this list. 
+* [Shubhanshu Mishra](https://shubhanshu.com) - Maintainer of the list. 
+* [Angelo Antonio Salatino](https://github.com/angelosalatino)
+* [Philipp Zumstein](https://github.com/zuphilip)
