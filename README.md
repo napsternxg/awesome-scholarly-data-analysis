@@ -166,6 +166,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [NIPS papers](https://papers.nips.cc/)
 * [Abel tools for PubMed data](http://abel.lis.illinois.edu/resources.html)
 * [infolis: linking research data and publications](http://infolis.github.io/)
+* [Metrics toolkit](http://www.metrics-toolkit.org/)
 
 ## Tools for collecting open access papers
 
