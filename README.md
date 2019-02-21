@@ -25,12 +25,13 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Tools for collecting open access papers](#tools-for-collecting-open-access-papers)
   * [Tools for classifying research papers](#tools-for-classifying-research-papers)
   * [Visualizations](#visualizations)
-  * [NLP](#nlp)
+  * [Language Processing and Information Extraction](#language-processing-and-information-extraction)
 - [Publication Venues](#publication-venues)
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
 - [Summer Schools](#summer-schools)
+- [Contributions](#contributions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
