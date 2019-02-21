@@ -19,8 +19,8 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Networks](#networks)
   * [Taxonomies and Ontologies of Research Concepts](#taxonomies-and-ontologies-of-research-concepts)
   * [Affiliations](#affiliations)
-- [Code](#code)
 - [Tools](#tools)
+  * [Process publication data](#process-publication-data)
   * [User interface to publication datasets](#user-interface-to-publication-datasets)
   * [Tools for collecting open access papers](#tools-for-collecting-open-access-papers)
   * [Tools for classifying research papers](#tools-for-classifying-research-papers)
@@ -166,13 +166,12 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 * [Global Research Identifier Database (GRID)](www.grid.ac)
 
-# Code
+# Tools
+
+## Process publication data
 * [CiteSeer tools](https://github.com/SeerLabs)
 * [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
 * [Science-Parse](https://github.com/allenai/science-parse)
-
-
-# Tools
 
 ## User interface to publication datasets
 
