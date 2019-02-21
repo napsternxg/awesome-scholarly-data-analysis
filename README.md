@@ -20,9 +20,6 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Taxonomies and Ontologies of Research Concepts](#taxonomies-and-ontologies-of-research-concepts)
   * [Affiliations](#affiliations)
   * [Altmetrics](#altmetrics)
-- [Code](#code)
-  * [R packages](#rpackages)
-  * [Python Libraries](#pythonlibs)
 - [Tools](#tools)
   * [User interface to publication datasets](#user-interface-to-publication-datasets)
   * [Tools for collecting open access papers](#tools-for-collecting-open-access-papers)
@@ -177,27 +174,9 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 ## Altmetrics
 * [Altmetrics API](https://api.altmetric.com/)
 
-# Code
-* [CiteSeer tools](https://github.com/SeerLabs)
-* [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
-* [Science-Parse](https://github.com/allenai/science-parse)
-
-## R packages
-* [Bibliometrix](http://www.bibliometrix.org/)
-* [CITAN](https://cran.r-project.org/web/packages/CITAN/index.html)
-* [Rcrossref](https://github.com/ropensci/rcrossref)
-* [Rscopus](https://cran.r-project.org/web/packages/rscopus/index.html)
-* [Scholar](https://cran.r-project.org/web/packages/scholar/index.html)
-* [BibeR (BibeR: A Web-based tool for bibliometric analysis in scientific literature)](https://yangliufr.shinyapps.io/BibeR/)
-
-## Python Libraries
-* [Science Parse](https://github.com/allenai/science-parse)
-* [scihub.py](https://github.com/zaytoun/scihub.py)
-* [SoPaper](https://github.com/ppwwyyxx/SoPaper)
-
 # Tools
 
-## User interface to publication datasets
+## User interface to publication datasets & analysis
 
 * [Google Scholar](https://scholar.google.com/)
 * [Semantic Scholar](https://www.semanticscholar.org/)
@@ -209,6 +188,17 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Abel tools for PubMed data](http://abel.lis.illinois.edu/resources.html)
 * [infolis: linking research data and publications](http://infolis.github.io/)
 * [Metrics toolkit](http://www.metrics-toolkit.org/)
+* [Rcrossref (R library)](https://github.com/ropensci/rcrossref)
+* [Rscopus (R library)](https://cran.r-project.org/web/packages/rscopus/index.html)
+* [Scholar (R library)](https://cran.r-project.org/web/packages/scholar/index.html)
+* [Bibliometrix (R library)](http://www.bibliometrix.org/)
+* [CITAN (R library)](https://cran.r-project.org/web/packages/CITAN/index.html)
+* [BibeR (BibeR: A Web-based tool for bibliometric analysis in scientific literature)](https://yangliufr.shinyapps.io/BibeR/)
+* [scihub.py (Python library)](https://github.com/zaytoun/scihub.py)
+* [SoPaper (Python library)](https://github.com/ppwwyyxx/SoPaper)
+* [CiteSeer tools](https://github.com/SeerLabs)
+* [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
+
 
 ## Tools for collecting open access papers
 
@@ -236,6 +226,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [CERMINE](https://github.com/CeON/CERMINE)
 * [Grobid](https://grobid.readthedocs.io/en/latest/)
 * [EXCITE (Extraction of Citations from PDF Documents)](http://excite.west.uni-koblenz.de/website/)
+* [Science-Parse](https://github.com/allenai/science-parse)
 
 # Publication Venues
 
