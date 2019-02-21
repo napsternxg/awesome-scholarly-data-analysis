@@ -123,6 +123,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [BioNLP - Argo](http://argo.nactem.ac.uk/bioc/)
 * [Biomedical NLP - Stav](http://corpora.informatik.hu-berlin.de/)
 * [GENIA - BioNLP 2011](http://2011.bionlp-st.org/home)
+* [Genia Treebank used for SciSpacy training](https://nlp.stanford.edu/~mcclosky/biomedical.html) - [SciSpacy link](https://allenai.github.io/scispacy/)
 * [Full GENIA corpus](http://www.geniaproject.org/genia-corpus/term-corpus)
 * [Anatomical Entity Mention (AnEM) corpus](http://www.nactem.ac.uk/anatomy/)
 * [CellFinder - Entity detection](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/resources/cellfinder)
@@ -136,6 +137,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [ACM - DBLP database entry matching](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution)
 * [Colorado Richly Annotated Full-Text](https://github.com/UCDenver-ccp/CRAFT) - PubMed abstract annotated with entities mapped to 10 biomedical ontology terms. 
 * [CLEF datasets for multilingual Biomedical NLP+IE](https://sites.google.com/site/clefehealth/home)
+* [MedMentions - UMLS entities in PubMed](https://github.com/chanzuckerberg/MedMentions)
 
 ## Networks
 
@@ -198,11 +200,12 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 
-## NLP
+## Language Processing and Information Extraction
 
 * [Biomedical - BioSentVec Embeddings](https://github.com/ncbi-nlp/BioSentVec)
 * [Biomedical embeddings - CambridgeLTL](https://github.com/cambridgeltl/BioNLP-2016)
 * [NIH scientific paper pre-processing](https://github.com/NIHOPA/NLPre)
+* [SciSpacy - Spacy models for Biomedical NLP from AllenAI](https://allenai.github.io/scispacy/)
 
 # Publication Venues
 
