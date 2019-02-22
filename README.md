@@ -19,6 +19,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Networks](#networks)
   * [Taxonomies and Ontologies of Research Concepts](#taxonomies-and-ontologies-of-research-concepts)
   * [Affiliations](#affiliations)
+  * [Altmetrics](#altmetrics)
 - [Tools](#tools)
   * [Process publication data](#process-publication-data)
   * [User interface to publication datasets](#user-interface-to-publication-datasets)
@@ -26,11 +27,13 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Tools for classifying research papers](#tools-for-classifying-research-papers)
   * [Visualizations](#visualizations)
   * [Language Processing and Information Extraction](#language-processing-and-information-extraction)
+  * [Citation and metadata extraction](#metadataextraction)
 - [Publication Venues](#publication-venues)
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
 - [Summer Schools](#summer-schools)
+- [Associations & Community](#associations)
 - [Contributions](#contributions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -67,6 +70,12 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [The Collection of Computer Science Bibliographies](http://liinwww.ira.uka.de/bibliography/)
 * [OpenCitations corpus](http://opencitations.net/corpus)
 * [COCI Doi-Doi citation data](https://figshare.com/articles/Crossref_Open_Citation_Index_CSV_dataset_of_all_the_citation_data/6741422/2)
+* [DOAJ API (Directory of Open Access Journals)](https://doaj.org/api/v1/docs)
+* [ROAD (Directory of Open Access Scholarly Resources)](https://road.issn.org/)
+* [Sherpa/Romeo (Publisher copyright policies & self-archiving)](http://www.sherpa.ac.uk/romeo/index.php)
+* [OpenAPC (fees paid for open access journal articles)](https://www.intact-project.org/openapc/)
+* [OSF API (Open Science Framework)](https://developer.osf.io/)
+* [Digital tools for researchers](http://connectedresearchers.com)
 
 
 ## Academic Genealogy
@@ -166,14 +175,12 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 * [Global Research Identifier Database (GRID)](www.grid.ac)
 
+## Altmetrics
+* [Altmetrics API](https://api.altmetric.com/)
+
 # Tools
 
-## Process publication data
-* [CiteSeer tools](https://github.com/SeerLabs)
-* [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
-* [Science-Parse](https://github.com/allenai/science-parse)
-
-## User interface to publication datasets
+## User interface to publication datasets & analysis
 
 * [Google Scholar](https://scholar.google.com/)
 * [Semantic Scholar](https://www.semanticscholar.org/)
@@ -185,6 +192,17 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Abel tools for PubMed data](http://abel.lis.illinois.edu/resources.html)
 * [infolis: linking research data and publications](http://infolis.github.io/)
 * [Metrics toolkit](http://www.metrics-toolkit.org/)
+* [Rcrossref (R library)](https://github.com/ropensci/rcrossref)
+* [Rscopus (R library)](https://cran.r-project.org/web/packages/rscopus/index.html)
+* [Scholar (R library)](https://cran.r-project.org/web/packages/scholar/index.html)
+* [Bibliometrix (R library)](http://www.bibliometrix.org/)
+* [CITAN (R library)](https://cran.r-project.org/web/packages/CITAN/index.html)
+* [BibeR (BibeR: A Web-based tool for bibliometric analysis in scientific literature)](https://yangliufr.shinyapps.io/BibeR/)
+* [scihub.py (Python library)](https://github.com/zaytoun/scihub.py)
+* [SoPaper (Python library)](https://github.com/ppwwyyxx/SoPaper)
+* [CiteSeer tools](https://github.com/SeerLabs)
+* [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
+
 
 ## Tools for collecting open access papers
 
@@ -197,8 +215,10 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 ## Visualizations
 * [Rexplore](https://technologies.kmi.open.ac.uk/rexplore/)
 * [VOSviewer](http://www.vosviewer.com)
+* [CitNetExplorer](http://www.citnetexplorer.nl/)
 * [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
+* [WOS2Pajek](http://vladowiki.fmf.uni-lj.si/doku.php?id=pajek:wos2pajek)
 
 ## Language Processing and Information Extraction
 
@@ -207,6 +227,12 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [NIH scientific paper pre-processing](https://github.com/NIHOPA/NLPre)
 * [SciSpacy - Spacy models for Biomedical NLP from AllenAI](https://allenai.github.io/scispacy/)
 
+## Citation and metadata extraction
+* [CERMINE](https://github.com/CeON/CERMINE)
+* [Grobid](https://grobid.readthedocs.io/en/latest/)
+* [EXCITE (Extraction of Citations from PDF Documents)](http://excite.west.uni-koblenz.de/website/)
+* [Science-Parse](https://github.com/allenai/science-parse)
+
 # Publication Venues
 
 ## Journals
@@ -214,11 +240,16 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Scientometrics](https://link.springer.com/journal/11192) 
 * [Journal of Informetrics](https://www.journals.elsevier.com/journal-of-informetrics)
 * [Quantitative Science Studies](https://www.mitpressjournals.org/loi/qss) (Open Access)
+* [Science, technology and human values](https://journals.sagepub.com/home/sth)
+* [Social Studies of Science](https://journals.sagepub.com/home/sss)
+* [Science and Public Policy](https://academic.oup.com/spp)
 
 ## Conferences
 * [Joint Conference on Digital Libraries (JCDL)](http://www.jcdl.org)
 * [International Conference on Theory and Practice of Digital Libraries (TPDL)](http://www.tpdl.eu)
 * [European Semantic Web Conference (ESWC), Research of Research Track](https://2019.eswc-conferences.org/call-for-papers-research-of-research-track/)
+* [STI Conference series (Science and Technology indicators, e.g., 2018)](http://sti2018.cwts.nl/)
+* [ISSI Conference series (INTERNATIONAL CONFERENCE ON  SCIENTOMETRICS & INFORMETRICS, e.g., 2019)](https://www.issi2019.org/)
 
 ## Workshops
 * [SIGMET - Metrics workshop](https://www.asist.org/SIG/SIGMET/workshop/)
@@ -229,11 +260,15 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 # Summer Schools
 * [CWTS Scientometrics Spring School (CS3)](https://www.cwts.nl/education/cwts-scientometrics-spring-school)
+* [European Summer School of Scientometrics (ESSS)](https://www.scientometrics-school.eu/)
 
-
+# Associations & Community
+* [European Network of Indicator Designers (ENID)](http://www.forschungsinfo.de/ENID/)
+* [4S (Society for Social Studies of Science)](http://4sonline.org/)
 
 # Contributions
 The following people have contributed to the items on this list. 
 * [Shubhanshu Mishra](https://shubhanshu.com) - Maintainer of the list. 
 * [Angelo Antonio Salatino](https://github.com/angelosalatino)
 * [Philipp Zumstein](https://github.com/zuphilip)
+* [Ali (Aliakbar Akbaritabar)](http://akbaritabar.netlify.com)
