@@ -174,6 +174,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 ## Affiliations
 
 * [Global Research Identifier Database (GRID)](www.grid.ac)
+* [CS Rankings with people linked to institutes](http://csrankings.org/#/index?all)
 
 ## Altmetrics
 * [Altmetrics API](https://api.altmetric.com/)
