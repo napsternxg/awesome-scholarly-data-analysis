@@ -19,7 +19,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Networks](#networks)
   * [Taxonomies and Ontologies of Research Concepts](#taxonomies-and-ontologies-of-research-concepts)
   * [Affiliations](#affiliations)
-  * [Altmetrics](#altmetrics)
+  * [Altmetrics and Dimensions](#altmetrics-and-dimensions)
 - [Tools](#tools)
   * [Process publication data](#process-publication-data)
   * [User interface to publication datasets](#user-interface-to-publication-datasets)
@@ -176,8 +176,9 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Global Research Identifier Database (GRID)](www.grid.ac)
 * [CS Rankings with people linked to institutes](http://csrankings.org/#/index?all)
 
-## Altmetrics
+## Altmetrics and Dimensions
 * [Altmetrics API](https://api.altmetric.com/)
+* [Dimensions.ai API](https://metrics-api.dimensions.ai) - [documentation](https://figshare.com/articles/Dimensions_Metrics_API_Documentation/5783694), [example](http://metrics-api.dimensions.ai/doi/10.7717/peerj-cs.119)
 
 # Tools
 
@@ -208,6 +209,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 ## Tools for collecting open access papers
 
 * [ContentMine - getpapers](https://github.com/ContentMine/getpapers)
+* [rcoreoa](https://github.com/ropensci/rcoreoa) - [CORE](core.ac.uk) API R client
 
 ## Tools for classifying research papers
 
@@ -264,6 +266,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [European Summer School of Scientometrics (ESSS)](https://www.scientometrics-school.eu/)
 
 # Associations & Community
+* [International Society for Informetrics and Scientometrics (ISSI)](http://issi-society.org)
 * [European Network of Indicator Designers (ENID)](http://www.forschungsinfo.de/ENID/)
 * [4S (Society for Social Studies of Science)](http://4sonline.org/)
 
