@@ -148,6 +148,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Colorado Richly Annotated Full-Text](https://github.com/UCDenver-ccp/CRAFT) - PubMed abstract annotated with entities mapped to 10 biomedical ontology terms. 
 * [CLEF datasets for multilingual Biomedical NLP+IE](https://sites.google.com/site/clefehealth/home)
 * [MedMentions - UMLS entities in PubMed](https://github.com/chanzuckerberg/MedMentions)
+* [Colright Initiatve - Rich text competition](https://coleridgeinitiative.org/richcontextcompetition#phase1)
 
 ## Networks
 
