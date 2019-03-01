@@ -119,6 +119,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 ## Information Extraction and NLP
 * [Citation Parsing](http://csxstatic.ist.psu.edu/about/scholarly-information-extraction)
+* [Citation Parsing in humanities](https://github.com/dhlab-epfl/LinkedBooksDeepReferenceParsing)
 * [Document Summarization](https://github.com/WING-NUS/scisumm-corpus)
 * [Keyphrase Extraction](https://github.com/snkim/AutomaticKeyphraseExtraction)
 * [Related Work Summarization](https://github.com/WING-NUS/RelatedWorkSummarizationDataset)
