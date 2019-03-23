@@ -232,6 +232,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Biomedical embeddings - CambridgeLTL](https://github.com/cambridgeltl/BioNLP-2016)
 * [NIH scientific paper pre-processing](https://github.com/NIHOPA/NLPre)
 * [SciSpacy - Spacy models for Biomedical NLP from AllenAI](https://allenai.github.io/scispacy/)
+* [Multitask Biomedical NER](https://github.com/yuzhimanhua/Multi-BioNER)
 
 ## Citation and metadata extraction
 * [CERMINE](https://github.com/CeON/CERMINE)
