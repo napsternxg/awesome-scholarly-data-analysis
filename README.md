@@ -152,6 +152,8 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [CLEF datasets for multilingual Biomedical NLP+IE](https://sites.google.com/site/clefehealth/home)
 * [MedMentions - UMLS entities in PubMed](https://github.com/chanzuckerberg/MedMentions)
 * [Colright Initiatve - Rich text competition](https://coleridgeinitiative.org/richcontextcompetition#phase1)
+* [SciERC - scientific entities, their relations, and coreference clusters for 500 AI conf abstracts](http://nlp.cs.washington.edu/sciIE/)
+* [PubMed200k_RCT - Label abstract sentences into Objective, Background, Method, Results, Conclusions](https://github.com/Franck-Dernoncourt/pubmed-rct)
 
 ## Networks
 
@@ -234,6 +236,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [NIH scientific paper pre-processing](https://github.com/NIHOPA/NLPre)
 * [SciSpacy - Spacy models for Biomedical NLP from AllenAI](https://allenai.github.io/scispacy/)
 * [Multitask Biomedical NER](https://github.com/yuzhimanhua/Multi-BioNER)
+* [SciBERT - Bert LM for Biomedical and CS papers](https://github.com/allenai/scibert)
 
 ## Citation and metadata extraction
 * [CERMINE](https://github.com/CeON/CERMINE)
