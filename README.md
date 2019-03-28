@@ -101,6 +101,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [National Library of Medicine Profiles](https://profiles.nlm.nih.gov/)
 * [UIUC Professors database - Publications, Affiliations](https://experts.illinois.edu/)
 * [Author Profiles of scholarly authors in Wikipedia](https://tools.wmflabs.org/scholia/)
+* [Career Transitions of CS students](https://github.com/tsafavi/career-transitions-data)
 
 ## Author name disambiguation
 * [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
