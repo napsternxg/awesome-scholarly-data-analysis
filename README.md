@@ -154,6 +154,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Colright Initiatve - Rich text competition](https://coleridgeinitiative.org/richcontextcompetition#phase1)
 * [SciERC - scientific entities, their relations, and coreference clusters for 500 AI conf abstracts](http://nlp.cs.washington.edu/sciIE/)
 * [PubMed200k_RCT - Label abstract sentences into Objective, Background, Method, Results, Conclusions](https://github.com/Franck-Dernoncourt/pubmed-rct)
+* [NER, Parsing, Classification datasets from SciBert](https://github.com/allenai/scibert/tree/master/data)
 
 ## Networks
 
