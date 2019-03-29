@@ -111,6 +111,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Arnet Miner](http://arnetminer.org/lab-datasets/disambiguation/rich-author-disambiguation-data.zip)
 * [DBLP Name disambiguation dataset](https://github.com/yaya213/DBLP-Name-Disambiguation-Dataset)
 * [rexa-coref-data](https://github.com/tapilab/rexa-coref-data)
+* [Dedped author names on IEEE Vis papers 1990-2018](https://sites.google.com/site/vispubdata/home)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
