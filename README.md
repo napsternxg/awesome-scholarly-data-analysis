@@ -48,7 +48,8 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Semantic Scholar Corpus](http://labs.semanticscholar.org/corpus/)
 * [CiteSeer](http://csxstatic.ist.psu.edu/about/data)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
-* [CORA datasets](https://people.cs.umass.edu/~mccallum/data.html)
+* [CORA datasets for citation string parsing](https://people.cs.umass.edu/~mccallum/data.html)
+* [Humanities and multilingual citation string parsing Flux-CiM and ICONIP](https://github.com/knmnyn/ParsCit/tree/master/doc) see [Neural ParsCit paper](https://link.springer.com/article/10.1007/s00799-018-0242-1) for details
 * [CrossRef DOI URLs](https://archive.org/details/doi-urls)
 * [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
 * [NBER Patent Citations](http://nber.org/patents/)
