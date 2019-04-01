@@ -77,6 +77,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [OpenAPC (fees paid for open access journal articles)](https://www.intact-project.org/openapc/)
 * [OSF API (Open Science Framework)](https://developer.osf.io/)
 * [Digital tools for researchers](http://connectedresearchers.com)
+* [Fatcat - versioned, publicly-editable catalog of research publications](https://fatcat.wiki/)
 
 
 ## Academic Genealogy
@@ -158,6 +159,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [SciERC - scientific entities, their relations, and coreference clusters for 500 AI conf abstracts](http://nlp.cs.washington.edu/sciIE/)
 * [PubMed200k_RCT - Label abstract sentences into Objective, Background, Method, Results, Conclusions](https://github.com/Franck-Dernoncourt/pubmed-rct)
 * [NER, Parsing, Classification datasets from SciBert](https://github.com/allenai/scibert/tree/master/data)
+* [ACA Wiki - Paper summaries of more than 1600 papers](https://acawiki.org/Home)
 
 ## Networks
 
