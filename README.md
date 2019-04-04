@@ -78,6 +78,9 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [OSF API (Open Science Framework)](https://developer.osf.io/)
 * [Digital tools for researchers](http://connectedresearchers.com)
 * [Fatcat - versioned, publicly-editable catalog of research publications](https://fatcat.wiki/)
+* [Microsoft Academic Knowledge Graph](http://ma-graph.org/)
+* [arXiv CS dataset](http://citation-recommendation.org/publications/#A_High-Quality_Gold_Standard_for_Citation-based_Tasks)
+* [arXiv fulltext + citations dataset](https://github.com/IllDepence/unarXive)
 
 
 ## Academic Genealogy
