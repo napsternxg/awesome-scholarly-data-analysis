@@ -160,6 +160,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [PubMed200k_RCT - Label abstract sentences into Objective, Background, Method, Results, Conclusions](https://github.com/Franck-Dernoncourt/pubmed-rct)
 * [NER, Parsing, Classification datasets from SciBert](https://github.com/allenai/scibert/tree/master/data)
 * [ACA Wiki - Paper summaries of more than 1600 papers](https://acawiki.org/Home)
+* [SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers](https://competitions.codalab.org/competitions/17422#learn_the_details-subtasks)
 
 ## Networks
 
