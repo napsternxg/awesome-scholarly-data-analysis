@@ -78,6 +78,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [OSF API (Open Science Framework)](https://developer.osf.io/)
 * [Digital tools for researchers](http://connectedresearchers.com)
 * [Fatcat - versioned, publicly-editable catalog of research publications](https://fatcat.wiki/)
+* [Self-citation analysis data based on PubMed Central subset (2002-2005)](https://doi.org/10.13012/B2IDB-9665377_V1)
 
 
 ## Academic Genealogy
@@ -104,6 +105,9 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [UIUC Professors database - Publications, Affiliations](https://experts.illinois.edu/)
 * [Author Profiles of scholarly authors in Wikipedia](https://tools.wmflabs.org/scholia/)
 * [Career Transitions of CS students](https://github.com/tsafavi/career-transitions-data)
+* [Author name gender and ethnicity dataset based on PubMed](https://doi.org/10.13012/B2IDB-9087546_V1)
+* [MapAffil 2016 dataset -- PubMed author affiliations mapped to cities and their geocodes worldwide](https://doi.org/10.13012/B2IDB-4354331_V1)
+* [Conceptual novelty scores for PubMed articles](https://doi.org/10.13012/B2IDB-5060298_V1)
 
 ## Author name disambiguation
 * [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
@@ -114,6 +118,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [DBLP Name disambiguation dataset](https://github.com/yaya213/DBLP-Name-Disambiguation-Dataset)
 * [rexa-coref-data](https://github.com/tapilab/rexa-coref-data)
 * [Dedped author names on IEEE Vis papers 1990-2018](https://sites.google.com/site/vispubdata/home)
+* [Author-ity dataset for PubMed 2009](https://doi.org/10.13012/B2IDB-4370459_V1)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
@@ -161,6 +166,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [NER, Parsing, Classification datasets from SciBert](https://github.com/allenai/scibert/tree/master/data)
 * [ACA Wiki - Paper summaries of more than 1600 papers](https://acawiki.org/Home)
 * [SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers](https://competitions.codalab.org/competitions/17422#learn_the_details-subtasks)
+* [A Compendium of Free, Public Biomedical Text Mining Tools Available on the Web](http://arrowsmith.psych.uic.edu/arrowsmith_uic/tools.html)
 
 ## Networks
 
