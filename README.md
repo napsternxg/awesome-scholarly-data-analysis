@@ -169,6 +169,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers](https://competitions.codalab.org/competitions/17422#learn_the_details-subtasks)
 * [A Compendium of Free, Public Biomedical Text Mining Tools Available on the Web](http://arrowsmith.psych.uic.edu/arrowsmith_uic/tools.html)
 * [Medical Information Extraction from PubMed abstracts](https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/)
+* [Corpus of 40 scientific papers manually annotated by multiple scientific discourse facets](http://sempub.taln.upf.edu/dricorpus)
 
 
 ## Networks
