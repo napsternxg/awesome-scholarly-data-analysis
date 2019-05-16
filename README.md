@@ -79,6 +79,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Digital tools for researchers](http://connectedresearchers.com)
 * [Fatcat - versioned, publicly-editable catalog of research publications](https://fatcat.wiki/)
 * [Self-citation analysis data based on PubMed Central subset (2002-2005)](https://doi.org/10.13012/B2IDB-9665377_V1)
+* [Unpaywalled Corpus - PDF to 23M DOIs](https://unpaywall.org/products/snapshot) [Data Schema](https://unpaywall.org/data-format)
 
 
 ## Academic Genealogy
