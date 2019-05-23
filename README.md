@@ -21,7 +21,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Affiliations](#affiliations)
   * [Altmetrics and Dimensions](#altmetrics-and-dimensions)
 - [Tools](#tools)
-  * [User interface to publication datasets & analysis](#user-interface-to-publication-datasets---analysis)
+  * [User interface to publication datasets and analysis](#user-interface-to-publication-datasets-and-analysis)
   * [Tools for collecting open access papers](#tools-for-collecting-open-access-papers)
   * [Tools for classifying research papers](#tools-for-classifying-research-papers)
   * [Visualizations](#visualizations)
@@ -206,7 +206,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 
 # Tools
 
-## User interface to publication datasets & analysis
+## User interface to publication datasets and analysis
 
 * [Google Scholar](https://scholar.google.com/)
 * [Semantic Scholar](https://www.semanticscholar.org/)
