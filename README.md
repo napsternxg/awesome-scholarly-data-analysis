@@ -21,19 +21,18 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Affiliations](#affiliations)
   * [Altmetrics and Dimensions](#altmetrics-and-dimensions)
 - [Tools](#tools)
-  * [Process publication data](#process-publication-data)
-  * [User interface to publication datasets](#user-interface-to-publication-datasets)
+  * [User interface to publication datasets & analysis](#user-interface-to-publication-datasets---analysis)
   * [Tools for collecting open access papers](#tools-for-collecting-open-access-papers)
   * [Tools for classifying research papers](#tools-for-classifying-research-papers)
   * [Visualizations](#visualizations)
   * [Language Processing and Information Extraction](#language-processing-and-information-extraction)
-  * [Citation and metadata extraction](#metadataextraction)
+  * [Citation and metadata extraction](#citation-and-metadata-extraction)
 - [Publication Venues](#publication-venues)
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
 - [Summer Schools](#summer-schools)
-- [Associations & Community](#associations)
+- [Associations & Community](#associations---community)
 - [Contributions](#contributions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -229,6 +228,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [SoPaper (Python library)](https://github.com/ppwwyyxx/SoPaper)
 * [CiteSeer tools](https://github.com/SeerLabs)
 * [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
+* [TidyPMC - R based PMC XML parser](https://github.com/cstubben/tidypmc)
 
 
 ## Tools for collecting open access papers
