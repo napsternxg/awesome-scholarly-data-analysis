@@ -4,6 +4,7 @@
 # Awesome Scholarly Data Analysis
 
 List of resources on scholarly data analysis ranging from datasets, papers, and code about bibliometrics, citation analysis, and other scholarly commons resources.
+Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 
 
 # Table of Contents
