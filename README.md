@@ -83,6 +83,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Unpaywalled Corpus - PDF to 23M DOIs](https://unpaywall.org/products/snapshot) [Data Schema](https://unpaywall.org/data-format)
 * [A dataset of publication records for Nobel laureates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NJ5RN) - [paper](https://www.nature.com/articles/s41597-019-0033-6#Abs1)
 * [126+ Million literature-dataset and dataset-dataset links  between 12+ Million objects](https://zenodo.org/record/2674330#.XOU6gshKh3g) - [About the data](http://scholexplorer.openaire.eu/index.html#/about)
+* [Manually annotated citation data from the ACL Anthology into uses, motivation, future, extends, compare or contrast, and background](http://jurgens.people.si.umich.edu/citation-function/)
 
 
 ## Academic Genealogy
