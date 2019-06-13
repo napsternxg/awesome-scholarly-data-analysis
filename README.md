@@ -299,6 +299,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [International Society for Informetrics and Scientometrics (ISSI)](http://issi-society.org)
 * [European Network of Indicator Designers (ENID)](http://www.forschungsinfo.de/ENID/)
 * [4S (Society for Social Studies of Science)](http://4sonline.org/)
+* [SIG/MET - Special Interest Group for the measurement of information production and use](https://www.asist.org/SIG/SIGMET/)
 
 # Contributions
 The following people have contributed to the items on this list. 
