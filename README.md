@@ -120,6 +120,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Cleaner version of Lee Giles dataset](https://figshare.com/articles/DBLPderived_labeled_data_for_author_name_disambiguation/6840281)
 * [DBLP Korean Authors](http://www.lbd.dcc.ufmg.br/lbd/collections/disambiguation/DBLP.tar.gz/at_download/file)
 * [Arnet Miner](http://arnetminer.org/lab-datasets/disambiguation/rich-author-disambiguation-data.zip)
+* [Arnet Miner - Manual Name Disambiguation data 210 authors](https://aminer.org/na-data)
 * [DBLP Name disambiguation dataset](https://github.com/yaya213/DBLP-Name-Disambiguation-Dataset)
 * [rexa-coref-data](https://github.com/tapilab/rexa-coref-data)
 * [Dedped author names on IEEE Vis papers 1990-2018](https://sites.google.com/site/vispubdata/home)
