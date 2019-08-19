@@ -113,6 +113,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Author name gender and ethnicity dataset based on PubMed](https://doi.org/10.13012/B2IDB-9087546_V1)
 * [MapAffil 2016 dataset -- PubMed author affiliations mapped to cities and their geocodes worldwide](https://doi.org/10.13012/B2IDB-4354331_V1)
 * [Conceptual novelty scores for PubMed articles](https://doi.org/10.13012/B2IDB-5060298_V1)
+* [100,000 top-scientists that provides standardized information on citations, h-index, co-authorship adjusted hm-index, citations to papers in different authorship positions and a composite indicator](https://data.mendeley.com/datasets/btchxktzyw/1)
 
 ## Author name disambiguation
 * [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
