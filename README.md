@@ -178,6 +178,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Corpus of 40 scientific papers manually annotated by multiple scientific discourse facets](http://sempub.taln.upf.edu/dricorpus)
 * [PharmaCoNER: Pharmacological Substances, Compounds and proteins and Named Entity Recognition track](http://temu.bsc.es/pharmaconer/index.php/data/) - [Train](http://temu.bsc.es/pharmaconer/wp-content/uploads/2019/06/train-set_1.1.zip) - [Dev](http://temu.bsc.es/pharmaconer/wp-content/uploads/2019/06/dev-set_1.1.zip) - [Test](http://temu.bsc.es/pharmaconer/wp-content/uploads/2019/06/test-set_1.1.zip) - [Background Test set](http://temu.bsc.es/pharmaconer/wp-content/uploads/2019/05/background-set.zip)
 * [Bacteria Biotope (BB) Task - NER, NEL, Relation, KB Extraction](https://sites.google.com/view/bb-2019/dataset?authuser=0)
+* [Entity/relation recognition and GOF/LOF mutated gene text identification task based on the Active Gene Annotation Corpus](https://sites.google.com/view/bionlp-ost19-agac-track/description?authuser=0)
+* [The Regulatory Network of Plant Seed Development (SeeDev) Task - NER, Relation](https://sites.google.com/view/seedev2019/home?authuser=0)
+
 
 ## Networks
 
