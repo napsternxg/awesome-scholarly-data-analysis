@@ -180,6 +180,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Bacteria Biotope (BB) Task - NER, NEL, Relation, KB Extraction](https://sites.google.com/view/bb-2019/dataset?authuser=0)
 * [Entity/relation recognition and GOF/LOF mutated gene text identification task based on the Active Gene Annotation Corpus](https://sites.google.com/view/bionlp-ost19-agac-track/description?authuser=0)
 * [The Regulatory Network of Plant Seed Development (SeeDev) Task - NER, Relation](https://sites.google.com/view/seedev2019/home?authuser=0)
+* [TalkSumm - Summary of papers via alignment to talks](https://github.com/levguy/talksumm)
 
 
 ## Networks
