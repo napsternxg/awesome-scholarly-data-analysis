@@ -181,6 +181,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Entity/relation recognition and GOF/LOF mutated gene text identification task based on the Active Gene Annotation Corpus](https://sites.google.com/view/bionlp-ost19-agac-track/description?authuser=0)
 * [The Regulatory Network of Plant Seed Development (SeeDev) Task - NER, Relation](https://sites.google.com/view/seedev2019/home?authuser=0)
 * [TalkSumm - Summary of papers via alignment to talks](https://github.com/levguy/talksumm)
+* [SeminalSurveyDBLP - Classification of seminal or survey papers](https://zenodo.org/record/3258164#.XWac_-hKh3g)
 
 
 ## Networks
