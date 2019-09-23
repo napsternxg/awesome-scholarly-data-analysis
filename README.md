@@ -184,6 +184,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SeminalSurveyDBLP - Classification of seminal or survey papers](https://zenodo.org/record/3258164#.XWac_-hKh3g)
 * [A Dataset of Peer Reviews (PeerRead)](https://github.com/allenai/PeerRead)
 * [CiteTracked: A Longitudinal Dataset of Peer Reviews and Citations](http://ceur-ws.org/Vol-2414/paper12.pdf)
+* [Supp.ai - PubMed supplement-drug interactions and supplement-supplement interactions](https://github.com/lucylw/supp-ai-extracted-sdi-data/)
 
 
 ## Networks
