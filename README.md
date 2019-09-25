@@ -185,6 +185,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [A Dataset of Peer Reviews (PeerRead)](https://github.com/allenai/PeerRead)
 * [CiteTracked: A Longitudinal Dataset of Peer Reviews and Citations](http://ceur-ws.org/Vol-2414/paper12.pdf)
 * [Supp.ai - PubMed supplement-drug interactions and supplement-supplement interactions](https://github.com/lucylw/supp-ai-extracted-sdi-data/)
+* [GENETAG](https://github.com/openbiocorpora/genetag) - More recent versions [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S3) and [Download 2005](ftp://ftp.ncbi.nlm.nih.gov/pub/tanabe/GENETAG.tar.gz)
+* [MedTag: A Collection of Biomedical Annotations](https://www.aclweb.org/anthology/W05-1305) - [Download](ftp://ftp.ncbi.nlm.nih.gov/pub/lsmith/MedTag/)
+* Open Biomedical corpora - https://github.com/openbiocorpora
 
 
 ## Networks
