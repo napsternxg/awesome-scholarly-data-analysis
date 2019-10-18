@@ -189,7 +189,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Supp.ai - PubMed supplement-drug interactions and supplement-supplement interactions](https://github.com/lucylw/supp-ai-extracted-sdi-data/)
 * [GENETAG](https://github.com/openbiocorpora/genetag) - More recent versions [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S3) and [Download 2005](ftp://ftp.ncbi.nlm.nih.gov/pub/tanabe/GENETAG.tar.gz)
 * [MedTag: A Collection of Biomedical Annotations](https://www.aclweb.org/anthology/W05-1305) - [Download](ftp://ftp.ncbi.nlm.nih.gov/pub/lsmith/MedTag/)
-* Open Biomedical corpora - https://github.com/openbiocorpora
+* [Open Biomedical corpora](https://github.com/openbiocorpora)
+* [Biomedical Abstract Meaning Representation corpus based on PubMed Fulltext](https://web.archive.org/web/20170501120500/http://amr.isi.edu/download.html)
 
 
 ## Networks
