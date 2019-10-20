@@ -85,6 +85,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [126+ Million literature-dataset and dataset-dataset links  between 12+ Million objects](https://zenodo.org/record/2674330#.XOU6gshKh3g) - [About the data](http://scholexplorer.openaire.eu/index.html#/about)
 * [Manually annotated citation data from the ACL Anthology into uses, motivation, future, extends, compare or contrast, and background](http://jurgens.people.si.umich.edu/citation-function/)
 * [iCite - NIH Open Citation Collection](https://nih.figshare.com/collections/iCite_Database_Snapshots_NIH_Open_Citation_Collection_/4586573)
+* [MEDLINE/PubMed Baseline Repository (MBR) - All Medline abstracts and paper paper meta-data in XML](https://mbr.nlm.nih.gov)
 
 
 ## Academic Genealogy
@@ -190,7 +191,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [GENETAG](https://github.com/openbiocorpora/genetag) - More recent versions [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S3) and [Download 2005](ftp://ftp.ncbi.nlm.nih.gov/pub/tanabe/GENETAG.tar.gz)
 * [MedTag: A Collection of Biomedical Annotations](https://www.aclweb.org/anthology/W05-1305) - [Download](ftp://ftp.ncbi.nlm.nih.gov/pub/lsmith/MedTag/)
 * [Open Biomedical corpora](https://github.com/openbiocorpora)
-* [Biomedical Abstract Meaning Representation corpus based on PubMed Fulltext](https://web.archive.org/web/20170501120500/http://amr.isi.edu/download.html)
+* [Biomedical Abstract Meaning Representation corpus based on PubMed Fulltext](https://web.archive.org/web/20170501120500/http://amr.isi.edu/download.html) - Also see [other NLM curated biomedical resources](https://www.nlm.nih.gov/databases/download/data_distrib_main.html)
 
 
 ## Networks
