@@ -224,6 +224,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Altmetrics and Dimensions
 * [Altmetrics API](https://api.altmetric.com/)
 * [Dimensions.ai API](https://metrics-api.dimensions.ai) - [documentation](https://figshare.com/articles/Dimensions_Metrics_API_Documentation/5783694), [example](http://metrics-api.dimensions.ai/doi/10.7717/peerj-cs.119)
+* [Core Conference Rankings](http://www.core.edu.au/conference-portal/2018-conference-rankings-1)
+* [China Computer Federation Conference Rankings](https://www.ccf.org.cn/xspj/rgzn/)
 
 # Tools
 
