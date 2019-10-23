@@ -79,6 +79,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [OSF API (Open Science Framework)](https://developer.osf.io/)
 * [Digital tools for researchers](http://connectedresearchers.com)
 * [Fatcat - versioned, publicly-editable catalog of research publications](https://fatcat.wiki/)
+* [Microsoft Academic Knowledge Graph - RDF dump](http://ma-graph.org/)
+* [arXiv CS citation in context](http://citation-recommendation.org/publications/#A_High-Quality_Gold_Standard_for_Citation-based_Tasks)
+* [arXiv fulltext + citations dataset](https://zenodo.org/record/2609187#.XKe86JhKh3g)
 * [Self-citation analysis data based on PubMed Central subset (2002-2005)](https://doi.org/10.13012/B2IDB-9665377_V1)
 * [Unpaywalled Corpus - PDF to 23M DOIs](https://unpaywall.org/products/snapshot) [Data Schema](https://unpaywall.org/data-format)
 * [A dataset of publication records for Nobel laureates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NJ5RN) - [paper](https://www.nature.com/articles/s41597-019-0033-6#Abs1)
@@ -286,6 +289,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Grobid](https://grobid.readthedocs.io/en/latest/)
 * [EXCITE (Extraction of Citations from PDF Documents)](http://excite.west.uni-koblenz.de/website/)
 * [Science-Parse](https://github.com/allenai/science-parse)
+* [unarXiv (Citation in context from arXiv)](https://github.com/IllDepence/unarXive)
 
 # Publication Venues
 
