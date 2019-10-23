@@ -78,9 +78,9 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [OSF API (Open Science Framework)](https://developer.osf.io/)
 * [Digital tools for researchers](http://connectedresearchers.com)
 * [Fatcat - versioned, publicly-editable catalog of research publications](https://fatcat.wiki/)
-* [Microsoft Academic Knowledge Graph](http://ma-graph.org/)
-* [arXiv CS dataset](http://citation-recommendation.org/publications/#A_High-Quality_Gold_Standard_for_Citation-based_Tasks)
-* [arXiv fulltext + citations dataset](https://github.com/IllDepence/unarXive)
+* [Microsoft Academic Knowledge Graph - RDF dump](http://ma-graph.org/)
+* [arXiv CS citation in context](http://citation-recommendation.org/publications/#A_High-Quality_Gold_Standard_for_Citation-based_Tasks)
+* [arXiv fulltext + citations dataset](https://zenodo.org/record/2609187#.XKe86JhKh3g)
 
 
 ## Academic Genealogy
@@ -252,6 +252,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Grobid](https://grobid.readthedocs.io/en/latest/)
 * [EXCITE (Extraction of Citations from PDF Documents)](http://excite.west.uni-koblenz.de/website/)
 * [Science-Parse](https://github.com/allenai/science-parse)
+* [unarXiv (Citation in context from arXiv)](https://github.com/IllDepence/unarXive)
 
 # Publication Venues
 
