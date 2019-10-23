@@ -315,6 +315,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Semantics, Analytics, Visualisation: Enhancing Scholarly Dissemination (SAVE-SD)](https://save-sd.github.io/2018/)
 * [Workshop on Reframing Research (RefResh)](http://refresh.kmi.open.ac.uk)
 * [Enabling Open Semantic Science (SemSci)](https://semsci.github.io/SemSci2018/)
+* [Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/index.html)
 
 # Summer Schools
 * [CWTS Scientometrics Spring School (CS3)](https://www.cwts.nl/education/cwts-scientometrics-spring-school)
