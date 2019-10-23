@@ -129,6 +129,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [rexa-coref-data](https://github.com/tapilab/rexa-coref-data)
 * [Dedped author names on IEEE Vis papers 1990-2018](https://sites.google.com/site/vispubdata/home)
 * [Author-ity dataset for PubMed 2009](https://doi.org/10.13012/B2IDB-4370459_V1)
+* [ACL Anthology dataset](https://github.com/acl-org/acl-anthology/blob/master/data/yaml/name_variants.yaml)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
