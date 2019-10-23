@@ -4,6 +4,7 @@
 # Awesome Scholarly Data Analysis
 
 List of resources on scholarly data analysis ranging from datasets, papers, and code about bibliometrics, citation analysis, and other scholarly commons resources.
+Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 
 
 # Table of Contents
@@ -21,19 +22,18 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
   * [Affiliations](#affiliations)
   * [Altmetrics and Dimensions](#altmetrics-and-dimensions)
 - [Tools](#tools)
-  * [Process publication data](#process-publication-data)
-  * [User interface to publication datasets](#user-interface-to-publication-datasets)
+  * [User interface to publication datasets and analysis](#user-interface-to-publication-datasets-and-analysis)
   * [Tools for collecting open access papers](#tools-for-collecting-open-access-papers)
   * [Tools for classifying research papers](#tools-for-classifying-research-papers)
   * [Visualizations](#visualizations)
   * [Language Processing and Information Extraction](#language-processing-and-information-extraction)
-  * [Citation and metadata extraction](#metadataextraction)
+  * [Citation and metadata extraction](#citation-and-metadata-extraction)
 - [Publication Venues](#publication-venues)
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
 - [Summer Schools](#summer-schools)
-- [Associations & Community](#associations)
+- [Associations & Community](#associations---community)
 - [Contributions](#contributions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -50,6 +50,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
 * [CORA datasets for citation string parsing](https://people.cs.umass.edu/~mccallum/data.html)
 * [Humanities and multilingual citation string parsing Flux-CiM and ICONIP](https://github.com/knmnyn/ParsCit/tree/master/doc) see [Neural ParsCit paper](https://link.springer.com/article/10.1007/s00799-018-0242-1) for details
+* [Citation string parsing data for social sciences for English and German citations](https://github.com/exciteproject/EXgoldstandard) - [comparison with Grobid and Cermine](https://github.com/exciteproject/Exparser/tree/master/Evaluation/Ours)
 * [CrossRef DOI URLs](https://archive.org/details/doi-urls)
 * [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
 * [NBER Patent Citations](http://nber.org/patents/)
@@ -81,6 +82,13 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Microsoft Academic Knowledge Graph - RDF dump](http://ma-graph.org/)
 * [arXiv CS citation in context](http://citation-recommendation.org/publications/#A_High-Quality_Gold_Standard_for_Citation-based_Tasks)
 * [arXiv fulltext + citations dataset](https://zenodo.org/record/2609187#.XKe86JhKh3g)
+* [Self-citation analysis data based on PubMed Central subset (2002-2005)](https://doi.org/10.13012/B2IDB-9665377_V1)
+* [Unpaywalled Corpus - PDF to 23M DOIs](https://unpaywall.org/products/snapshot) [Data Schema](https://unpaywall.org/data-format)
+* [A dataset of publication records for Nobel laureates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NJ5RN) - [paper](https://www.nature.com/articles/s41597-019-0033-6#Abs1)
+* [126+ Million literature-dataset and dataset-dataset links  between 12+ Million objects](https://zenodo.org/record/2674330#.XOU6gshKh3g) - [About the data](http://scholexplorer.openaire.eu/index.html#/about)
+* [Manually annotated citation data from the ACL Anthology into uses, motivation, future, extends, compare or contrast, and background](http://jurgens.people.si.umich.edu/citation-function/)
+* [iCite - NIH Open Citation Collection](https://nih.figshare.com/collections/iCite_Database_Snapshots_NIH_Open_Citation_Collection_/4586573)
+* [MEDLINE/PubMed Baseline Repository (MBR) - All Medline abstracts and paper paper meta-data in XML](https://mbr.nlm.nih.gov)
 
 
 ## Academic Genealogy
@@ -107,6 +115,11 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [UIUC Professors database - Publications, Affiliations](https://experts.illinois.edu/)
 * [Author Profiles of scholarly authors in Wikipedia](https://tools.wmflabs.org/scholia/)
 * [Career Transitions of CS students](https://github.com/tsafavi/career-transitions-data)
+* [Author name gender and ethnicity dataset based on PubMed](https://doi.org/10.13012/B2IDB-9087546_V1)
+* [MapAffil 2016 dataset -- PubMed author affiliations mapped to cities and their geocodes worldwide](https://doi.org/10.13012/B2IDB-4354331_V1)
+* [Conceptual novelty scores for PubMed articles](https://doi.org/10.13012/B2IDB-5060298_V1)
+* [100,000 top-scientists that provides standardized information on citations, h-index, co-authorship adjusted hm-index, citations to papers in different authorship positions and a composite indicator](https://data.mendeley.com/datasets/btchxktzyw/1)
+* [Canadian PhD career survey](https://www.sgs.utoronto.ca/about/10000-phds-project-overview/10kphds-dashboard/) - [Science report](https://www.sciencemag.org/careers/2018/03/trend-toward-transparency-phd-career-outcomes)
 
 ## Author name disambiguation
 * [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
@@ -114,9 +127,12 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [Cleaner version of Lee Giles dataset](https://figshare.com/articles/DBLPderived_labeled_data_for_author_name_disambiguation/6840281)
 * [DBLP Korean Authors](http://www.lbd.dcc.ufmg.br/lbd/collections/disambiguation/DBLP.tar.gz/at_download/file)
 * [Arnet Miner](http://arnetminer.org/lab-datasets/disambiguation/rich-author-disambiguation-data.zip)
+* [Arnet Miner - Manual Name Disambiguation data 210 authors](https://aminer.org/na-data)
 * [DBLP Name disambiguation dataset](https://github.com/yaya213/DBLP-Name-Disambiguation-Dataset)
 * [rexa-coref-data](https://github.com/tapilab/rexa-coref-data)
 * [Dedped author names on IEEE Vis papers 1990-2018](https://sites.google.com/site/vispubdata/home)
+* [Author-ity dataset for PubMed 2009](https://doi.org/10.13012/B2IDB-4370459_V1)
+* [ACL Anthology dataset](https://github.com/acl-org/acl-anthology/blob/master/data/yaml/name_variants.yaml)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
@@ -163,6 +179,24 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [PubMed200k_RCT - Label abstract sentences into Objective, Background, Method, Results, Conclusions](https://github.com/Franck-Dernoncourt/pubmed-rct)
 * [NER, Parsing, Classification datasets from SciBert](https://github.com/allenai/scibert/tree/master/data)
 * [ACA Wiki - Paper summaries of more than 1600 papers](https://acawiki.org/Home)
+* [SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers](https://competitions.codalab.org/competitions/17422#learn_the_details-subtasks)
+* [A Compendium of Free, Public Biomedical Text Mining Tools Available on the Web](http://arrowsmith.psych.uic.edu/arrowsmith_uic/tools.html)
+* [Medical Information Extraction from PubMed abstracts](https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/)
+* [Corpus of 40 scientific papers manually annotated by multiple scientific discourse facets](http://sempub.taln.upf.edu/dricorpus)
+* [PharmaCoNER: Pharmacological Substances, Compounds and proteins and Named Entity Recognition track](http://temu.bsc.es/pharmaconer/index.php/data/) - [Train](http://temu.bsc.es/pharmaconer/wp-content/uploads/2019/06/train-set_1.1.zip) - [Dev](http://temu.bsc.es/pharmaconer/wp-content/uploads/2019/06/dev-set_1.1.zip) - [Test](http://temu.bsc.es/pharmaconer/wp-content/uploads/2019/06/test-set_1.1.zip) - [Background Test set](http://temu.bsc.es/pharmaconer/wp-content/uploads/2019/05/background-set.zip)
+* [Bacteria Biotope (BB) Task - NER, NEL, Relation, KB Extraction](https://sites.google.com/view/bb-2019/dataset?authuser=0)
+* [Entity/relation recognition and GOF/LOF mutated gene text identification task based on the Active Gene Annotation Corpus](https://sites.google.com/view/bionlp-ost19-agac-track/description?authuser=0)
+* [The Regulatory Network of Plant Seed Development (SeeDev) Task - NER, Relation](https://sites.google.com/view/seedev2019/home?authuser=0)
+* [TalkSumm - Summary of papers via alignment to talks](https://github.com/levguy/talksumm)
+* [SeminalSurveyDBLP - Classification of seminal or survey papers](https://zenodo.org/record/3258164#.XWac_-hKh3g)
+* [A Dataset of Peer Reviews (PeerRead)](https://github.com/allenai/PeerRead)
+* [CiteTracked: A Longitudinal Dataset of Peer Reviews and Citations](http://ceur-ws.org/Vol-2414/paper12.pdf)
+* [Supp.ai - PubMed supplement-drug interactions and supplement-supplement interactions](https://github.com/lucylw/supp-ai-extracted-sdi-data/)
+* [GENETAG](https://github.com/openbiocorpora/genetag) - More recent versions [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S3) and [Download 2005](ftp://ftp.ncbi.nlm.nih.gov/pub/tanabe/GENETAG.tar.gz)
+* [MedTag: A Collection of Biomedical Annotations](https://www.aclweb.org/anthology/W05-1305) - [Download](ftp://ftp.ncbi.nlm.nih.gov/pub/lsmith/MedTag/)
+* [Open Biomedical corpora](https://github.com/openbiocorpora)
+* [Biomedical Abstract Meaning Representation corpus based on PubMed Fulltext](https://web.archive.org/web/20170501120500/http://amr.isi.edu/download.html) - Also see [other NLM curated biomedical resources](https://www.nlm.nih.gov/databases/download/data_distrib_main.html)
+
 
 ## Networks
 
@@ -194,10 +228,12 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 ## Altmetrics and Dimensions
 * [Altmetrics API](https://api.altmetric.com/)
 * [Dimensions.ai API](https://metrics-api.dimensions.ai) - [documentation](https://figshare.com/articles/Dimensions_Metrics_API_Documentation/5783694), [example](http://metrics-api.dimensions.ai/doi/10.7717/peerj-cs.119)
+* [Core Conference Rankings](http://www.core.edu.au/conference-portal/2018-conference-rankings-1)
+* [China Computer Federation Conference Rankings](https://www.ccf.org.cn/xspj/rgzn/)
 
 # Tools
 
-## User interface to publication datasets & analysis
+## User interface to publication datasets and analysis
 
 * [Google Scholar](https://scholar.google.com/)
 * [Semantic Scholar](https://www.semanticscholar.org/)
@@ -219,6 +255,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [SoPaper (Python library)](https://github.com/ppwwyyxx/SoPaper)
 * [CiteSeer tools](https://github.com/SeerLabs)
 * [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
+* [TidyPMC - R based PMC XML parser](https://github.com/cstubben/tidypmc)
 
 
 ## Tools for collecting open access papers
@@ -287,6 +324,7 @@ List of resources on scholarly data analysis ranging from datasets, papers, and 
 * [International Society for Informetrics and Scientometrics (ISSI)](http://issi-society.org)
 * [European Network of Indicator Designers (ENID)](http://www.forschungsinfo.de/ENID/)
 * [4S (Society for Social Studies of Science)](http://4sonline.org/)
+* [SIG/MET - Special Interest Group for the measurement of information production and use](https://www.asist.org/SIG/SIGMET/)
 
 # Contributions
 The following people have contributed to the items on this list. 
