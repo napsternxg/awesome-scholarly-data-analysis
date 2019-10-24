@@ -197,6 +197,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [MedTag: A Collection of Biomedical Annotations](https://www.aclweb.org/anthology/W05-1305) - [Download](ftp://ftp.ncbi.nlm.nih.gov/pub/lsmith/MedTag/)
 * [Open Biomedical corpora](https://github.com/openbiocorpora)
 * [Biomedical Abstract Meaning Representation corpus based on PubMed Fulltext](https://web.archive.org/web/20170501120500/http://amr.isi.edu/download.html) - Also see [other NLM curated biomedical resources](https://www.nlm.nih.gov/databases/download/data_distrib_main.html)
+* [SciDTB: Discourse Dependency TreeBank for Scientific Abstracts](https://github.com/PKU-TANGENT/SciDTB)
+* [SciDTB corpus annotated for argumentation mining](http://scientmin.taln.upf.edu/argmin/) - [Paper](https://www.aclweb.org/anthology/W19-4505.pdf)
 
 
 ## Networks
