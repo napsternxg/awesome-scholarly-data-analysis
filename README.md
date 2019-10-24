@@ -199,6 +199,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Biomedical Abstract Meaning Representation corpus based on PubMed Fulltext](https://web.archive.org/web/20170501120500/http://amr.isi.edu/download.html) - Also see [other NLM curated biomedical resources](https://www.nlm.nih.gov/databases/download/data_distrib_main.html)
 * [SciDTB: Discourse Dependency TreeBank for Scientific Abstracts](https://github.com/PKU-TANGENT/SciDTB)
 * [SciDTB corpus annotated for argumentation mining](http://scientmin.taln.upf.edu/argmin/) - [Paper](https://www.aclweb.org/anthology/W19-4505.pdf)
+* [Dr. Inventor Multi-layer Scientific Corpus for multiple scientific discourse facets](http://sempub.taln.upf.edu/dricorpus)
+* [ART corpus - 225 papers manually annotated the CISP labels (i.e. "Goal", "Method", "Result").](https://www.aber.ac.uk/en/media/departmental/computerscience/cb/art/gz/ART_Corpus.tar.gz)- [Browse files](http://www.ukoln.ac.uk/projects/ART_Corpus/menu.html) - [Project details](http://www.ukoln.ac.uk/projects/ART_Corpus/index.html)
+* [Multi-CoreSC CRA corpus (MCCRA) - 50 papers annotated with multiple CoreSC labels per sentence.](http://www.sapientaproject.com/wp-content/uploads/2016/05/consensus_annotated.zip) - [Project details](http://www.sapientaproject.com/links)
 
 
 ## Networks
