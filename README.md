@@ -89,6 +89,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Manually annotated citation data from the ACL Anthology into uses, motivation, future, extends, compare or contrast, and background](http://jurgens.people.si.umich.edu/citation-function/)
 * [iCite - NIH Open Citation Collection](https://nih.figshare.com/collections/iCite_Database_Snapshots_NIH_Open_Citation_Collection_/4586573)
 * [MEDLINE/PubMed Baseline Repository (MBR) - All Medline abstracts and paper paper meta-data in XML](https://mbr.nlm.nih.gov)
+* [American Physical Society Data Sets for Research](https://journals.aps.org/datasets)
 
 
 ## Academic Genealogy
