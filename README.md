@@ -120,7 +120,6 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Conceptual novelty scores for PubMed articles](https://doi.org/10.13012/B2IDB-5060298_V1)
 * [100,000 top-scientists that provides standardized information on citations, h-index, co-authorship adjusted hm-index, citations to papers in different authorship positions and a composite indicator](https://data.mendeley.com/datasets/btchxktzyw/1)
 * [Canadian PhD career survey](https://www.sgs.utoronto.ca/about/10000-phds-project-overview/10kphds-dashboard/) - [Science report](https://www.sciencemag.org/careers/2018/03/trend-toward-transparency-phd-career-outcomes)
-* [Data from the CVs of over 150 assistant professors in psychology in top-ranked research universities and small liberal art colleges in the US](https://osf.io/z8rhg/) - [Used in this blog](https://socialsciences.nature.com/users/325112-diego-a-reinero/posts/55118-the-path-to-professorship-by-the-numbers-and-why-mentorship-matters)
 
 ## Author name disambiguation
 * [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
@@ -197,6 +196,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [MedTag: A Collection of Biomedical Annotations](https://www.aclweb.org/anthology/W05-1305) - [Download](ftp://ftp.ncbi.nlm.nih.gov/pub/lsmith/MedTag/)
 * [Open Biomedical corpora](https://github.com/openbiocorpora)
 * [Biomedical Abstract Meaning Representation corpus based on PubMed Fulltext](https://web.archive.org/web/20170501120500/http://amr.isi.edu/download.html) - Also see [other NLM curated biomedical resources](https://www.nlm.nih.gov/databases/download/data_distrib_main.html)
+* [SciDTB: Discourse Dependency TreeBank for Scientific Abstracts](https://github.com/PKU-TANGENT/SciDTB)
+* [SciDTB corpus annotated for argumentation mining](http://scientmin.taln.upf.edu/argmin/) - [Paper](https://www.aclweb.org/anthology/W19-4505.pdf)
 
 
 ## Networks
