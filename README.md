@@ -203,6 +203,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Dr. Inventor Multi-layer Scientific Corpus for multiple scientific discourse facets](http://sempub.taln.upf.edu/dricorpus)
 * [ART corpus - 225 papers manually annotated the CISP labels (i.e. "Goal", "Method", "Result").](https://www.aber.ac.uk/en/media/departmental/computerscience/cb/art/gz/ART_Corpus.tar.gz)- [Browse files](http://www.ukoln.ac.uk/projects/ART_Corpus/menu.html) - [Project details](http://www.ukoln.ac.uk/projects/ART_Corpus/index.html)
 * [Multi-CoreSC CRA corpus (MCCRA) - 50 papers annotated with multiple CoreSC labels per sentence.](http://www.sapientaproject.com/wp-content/uploads/2016/05/consensus_annotated.zip) - [Project details](http://www.sapientaproject.com/links)
+* [PubMedQA - Question answering on PubMed](https://github.com/pubmedqa/pubmedqa)
 
 
 ## Networks
