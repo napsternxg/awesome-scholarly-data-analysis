@@ -207,6 +207,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PubMedQA - Question answering on PubMed](https://github.com/pubmedqa/pubmedqa)
 * [Corposaurus - Collection of biomedical corpus for NER](https://corposaurus.github.io/corpora/)
 * [BioNER corpus](https://github.com/xhuang28/NewBioNer/tree/master/corpus)
+* [NeuroQuery - 14,000 full-text publications and 400,000 peak activations](https://github.com/neuroquery/neuroquery_data) - [NeuroQuery website](https://neuroquery.org/about)
 
 
 ## Networks
