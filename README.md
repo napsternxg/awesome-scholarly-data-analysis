@@ -90,7 +90,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [iCite - NIH Open Citation Collection](https://nih.figshare.com/collections/iCite_Database_Snapshots_NIH_Open_Citation_Collection_/4586573)
 * [MEDLINE/PubMed Baseline Repository (MBR) - All Medline abstracts and paper paper meta-data in XML](https://mbr.nlm.nih.gov)
 * [American Physical Society Data Sets for Research](https://journals.aps.org/datasets)
-* Co-citation networks of all Nature papers: https://www.nature.com/immersive/d41586-019-03165-4/index.html
+* [Co-citation networks of all Nature papers](https://www.nature.com/immersive/d41586-019-03165-4/index.html)
 
 
 ## Academic Genealogy
