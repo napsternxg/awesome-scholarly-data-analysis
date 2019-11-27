@@ -210,7 +210,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [BioNER corpus](https://github.com/xhuang28/NewBioNer/tree/master/corpus)
 * [NeuroQuery - 14,000 full-text publications and 400,000 peak activations](https://github.com/neuroquery/neuroquery_data) - [NeuroQuery website](https://neuroquery.org/about)
 * [Medical Information Extraction dataset](https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/)
-
+* [A Large Parallel Corpus of Full-Text Scientific Articles](https://figshare.com/s/091fcaf8ad66a3304e90)
 
 ## Networks
 
