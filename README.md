@@ -217,6 +217,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Corpus of Open Access articles from multiple fields in Science, Technology, and Medicine - Includes wikification data](https://github.com/elsevierlabs/OA-STM-Corpus)
 * [Grounding Scientific Entity References in STEM Scholarly Content to Authoritative Encyclopedic and Lexicographic Sources](https://gitlab.com/TIBHannover/orkg/orkg-nlp/tree/master/STEM-ECR-v1.0)
 * [Open Research Knowledge Graph project](https://gitlab.com/TIBHannover/orkg) - [Website](https://www.orkg.org/orkg/)
+* [Academic PhraseBank](http://www.phrasebank.manchester.ac.uk/)
 
 
 ## Networks
