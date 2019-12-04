@@ -214,8 +214,12 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [A Large Parallel Corpus of Full-Text Scientific Articles](https://figshare.com/s/091fcaf8ad66a3304e90)
 * [Annotated Corpus of Scientific Conference's Homepages for Information Extraction](https://archive.org/details/conferences-data-0.2)
 * [Chi QA - Health Question Answering dataset from NLM](https://chiqa.nlm.nih.gov/)
-## Networks
+* [Corpus of Open Access articles from multiple fields in Science, Technology, and Medicine - Includes wikification data](https://github.com/elsevierlabs/OA-STM-Corpus)
+* [Grounding Scientific Entity References in STEM Scholarly Content to Authoritative Encyclopedic and Lexicographic Sources](https://gitlab.com/TIBHannover/orkg/orkg-nlp/tree/master/STEM-ECR-v1.0)
+* [Open Research Knowledge Graph project](https://gitlab.com/TIBHannover/orkg) - [Website](https://www.orkg.org/orkg/)
 
+
+## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
 
 ## Taxonomies and Ontologies of Research Concepts
