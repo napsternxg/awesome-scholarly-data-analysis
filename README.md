@@ -212,7 +212,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Medical Information Extraction dataset](https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/)
 * [A Large Parallel Corpus of Full-Text Scientific Articles](https://figshare.com/s/091fcaf8ad66a3304e90)
 * [Annotated Corpus of Scientific Conference's Homepages for Information Extraction](https://archive.org/details/conferences-data-0.2)
-
+* [Chi QA - Health Question Answering dataset from NLM](https://chiqa.nlm.nih.gov/)
 ## Networks
 
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
