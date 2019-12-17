@@ -285,7 +285,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 
 * [ContentMine - getpapers](https://github.com/ContentMine/getpapers)
 * [rcoreoa](https://github.com/ropensci/rcoreoa) - [CORE](core.ac.uk) API R client
-* [A Python library for doing bibliometric and network analysis in science and health policy research](https://github.com/networks-lab/metaknowledge)
+* [metaknowledge - A Python library for doing bibliometric and network analysis in science and health policy research](https://github.com/networks-lab/metaknowledge)
 
 ## Tools for classifying research papers
 
