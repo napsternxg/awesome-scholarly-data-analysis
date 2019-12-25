@@ -93,7 +93,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Co-citation networks of all Nature papers](https://www.nature.com/immersive/d41586-019-03165-4/index.html)
 * [Semantic Scholar Graph of References in Context (GORC) dataset](https://github.com/allenai/s2-gorc/)
 * [Multiple journal publication datasets](https://github.com/dmsquare/tube)
-
+* [Structured citations in the English Wikipedia](https://zenodo.org/record/55004#.XgLol7dOmdM)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
