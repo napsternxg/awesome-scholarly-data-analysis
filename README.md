@@ -220,7 +220,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Open Research Knowledge Graph project](https://gitlab.com/TIBHannover/orkg) - [Website](https://www.orkg.org/orkg/)
 * [Academic PhraseBank](http://www.phrasebank.manchester.ac.uk/)
 * [SciKG - Statement extraction datasets](https://github.com/dmsquare/SciKG) 
-
+* [A Fully Coreference-annotated Corpus of Scholarly Papers from the ACL Anthology](https://www.aclweb.org/anthology/C12-2103/)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
