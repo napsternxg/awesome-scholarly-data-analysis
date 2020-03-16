@@ -95,6 +95,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Multiple journal publication datasets](https://github.com/dmsquare/tube)
 * [Structured citations in the English Wikipedia](https://zenodo.org/record/55004#.XgLol7dOmdM)
 * [ICSR Lab (free for researchers) for scopus and plumx use](https://www.elsevier.com/icsr/icsrlab/features)
+* [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
