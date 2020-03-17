@@ -223,6 +223,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Academic PhraseBank](http://www.phrasebank.manchester.ac.uk/)
 * [SciKG - Statement extraction datasets](https://github.com/dmsquare/SciKG) 
 * [A Fully Coreference-annotated Corpus of Scholarly Papers from the ACL Anthology](https://www.aclweb.org/anthology/C12-2103/)
+* [A manual corpus of annotated main findings of clinical case reports](https://academic.oup.com/database/article/doi/10.1093/database/bay143/5290151#supplementary-data)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
