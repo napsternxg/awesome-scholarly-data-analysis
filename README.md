@@ -230,6 +230,19 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [A manual corpus of annotated main findings of clinical case reports](https://academic.oup.com/database/article/doi/10.1093/database/bay143/5290151#supplementary-data)
 * [TREC Precision Medicine / Clinical Decision Support Track](http://www.trec-cds.org/2019.html)
 * [Lots of biomedical entity linking and entity identification datasets](https://github.com/izuna385/datasets)
+* [Materials Science Named Entity Recognition: train/development/test sets](https://doi.org/10.6084/m9.figshare.8184428.v1)
+* [Entities in 3.27 million materials science abstracts](https://figshare.com/articles/Entities_database/8184413)
+* [Normalized entities in material science papers](https://figshare.com/articles/Entity_Normalization/8184365)
+* [Named Entity Recognition for Bacterial Type IV Secretion Systems](https://doi.org/10.1371/journal.pone.0014780.s002) - [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014780#s5)
+* [Annotating and detecting phenotypic information for chronic obstructive pulmonary disease](https://datadryad.org/stash/dataset/doi:10.5061/dryad.g35948t)
+* [MiRoR11 - P2 - Annotated corpus for primary and reported outcomes extraction](https://doi.org/10.5281/zenodo.3234811)
+* [Data from: PGxCorpus, a Manually Annotated Corpus for Pharmacogenomics](https://doi.org/10.6084/m9.figshare.7633343.v1)
+* [Multiple PUBMED annotated corpora from iProLink project](https://research.bioinformatics.udel.edu/iprolink/corpora.php)
+* [Mars Target Encyclopedia - LPSC abstracts labeled data set](https://doi.org/10.5281/zenodo.1048418)
+* [Annotation of phenotypes using ontologies](https://doi.org/10.5281/zenodo.1246697)
+* [The SPECIES and ORGANISMS Resources for Fast and Accurate Identification of Taxonomic Names in Text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065390) - [SPECIES Direct Download](https://species.jensenlab.org/files/S800-1.0.tar.gz) - [ORGANISMS Direct Download](https://organisms.jensenlab.org/Downloads)
+* [Entity mention in articles used for benchmark](https://figshare.com/articles/Entity_mention_in_articles_used_for_benchmark/5620417)
+* [RAMBO 800+: A Corpus for the Development of Gene/Protein Recognition from Rare and Ambiguous Abbreviations](https://doi.org/10.4119/unibi/2673424)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
@@ -295,6 +308,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [ContentMine - getpapers](https://github.com/ContentMine/getpapers)
 * [rcoreoa](https://github.com/ropensci/rcoreoa) - [CORE](core.ac.uk) API R client
 * [metaknowledge - A Python library for doing bibliometric and network analysis in science and health policy research](https://github.com/networks-lab/metaknowledge)
+* [PubMedPortable - PubMed to Postgres](https://github.com/KerstenDoering/PubMedPortable)
 
 ## Tools for classifying research papers
 
