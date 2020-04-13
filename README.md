@@ -98,6 +98,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 * [PaperRobot - includes PubMed Paper Reading Dataset](https://github.com/EagleW/PaperRobot)
 * [SciMag - Microsoft Academic Linked to SciMago Journals](https://github.com/scimag/sciMAG2015) - [WebPage](https://scimag.github.io/sciMAG2015/)
+* [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
+
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
