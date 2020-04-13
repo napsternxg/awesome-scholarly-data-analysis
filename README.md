@@ -97,6 +97,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [ICSR Lab (free for researchers) for scopus and plumx use](https://www.elsevier.com/icsr/icsrlab/features)
 * [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 * [PaperRobot - includes PubMed Paper Reading Dataset](https://github.com/EagleW/PaperRobot)
+* [SciMag - Microsoft Academic Linked to SciMago Journals](https://github.com/scimag/sciMAG2015) - [WebPage](https://scimag.github.io/sciMAG2015/)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
