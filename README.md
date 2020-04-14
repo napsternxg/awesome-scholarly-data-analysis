@@ -301,6 +301,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CiteSeer tools](https://github.com/SeerLabs)
 * [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
 * [TidyPMC - R based PMC XML parser](https://github.com/cstubben/tidypmc)
+* [PublicationHarvester - Download PubMed publications of an author](https://github.com/andrewstellman/PublicationHarvester)
 
 
 ## Tools for collecting open access papers
