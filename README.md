@@ -243,6 +243,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [The SPECIES and ORGANISMS Resources for Fast and Accurate Identification of Taxonomic Names in Text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065390) - [SPECIES Direct Download](https://species.jensenlab.org/files/S800-1.0.tar.gz) - [ORGANISMS Direct Download](https://organisms.jensenlab.org/Downloads)
 * [Entity mention in articles used for benchmark](https://figshare.com/articles/Entity_mention_in_articles_used_for_benchmark/5620417)
 * [RAMBO 800+: A Corpus for the Development of Gene/Protein Recognition from Rare and Ambiguous Abbreviations](https://doi.org/10.4119/unibi/2673424)
+* [Medical Relation Extraction - CrowdTruth](https://github.com/CrowdTruth/Medical-Relation-Extraction)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
