@@ -245,6 +245,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [RAMBO 800+: A Corpus for the Development of Gene/Protein Recognition from Rare and Ambiguous Abbreviations](https://doi.org/10.4119/unibi/2673424)
 * [Medical Relation Extraction - CrowdTruth](https://github.com/CrowdTruth/Medical-Relation-Extraction)
 * [KP20k - Kehphrase extraction on 20k abstracts](https://github.com/memray/seq2seq-keyphrase)
+* [Named Entity Recognition: (17.3 MB), 8 datasets on biomedical named entity recognition](https://github.com/dmis-lab/biobert#datasets)
+* [Relation Extraction: (2.5 MB), 2 datasets on biomedical relation extraction](https://github.com/dmis-lab/biobert#datasets)
+* [Question Answering: (5.23 MB), 3 datasets on biomedical question answering task](https://github.com/dmis-lab/biobert#datasets)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
