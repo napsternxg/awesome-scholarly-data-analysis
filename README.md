@@ -256,7 +256,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
 * [Medical Subject Headings](https://meshb.nlm.nih.gov/search) maintained by the [National Library of Medicine of the United States](https://www.nlm.nih.gov)
 * [Computer Science Ontology](https://cso.kmi.open.ac.uk/home) maintained by [Scholarly Knowledge: Modeling, Mining and Sense Making](http://skm.kmi.open.ac.uk)
-* [Physics Subject Headings](https://physh.aps.org/) maintained by [American Physical Society (APS)]()
+* [Physics Subject Headings (PhySH)](https://physh.aps.org/) maintained by [American Physical Society (APS)]() [GitHub](https://github.com/physh-org/PhySH)
 * [Open Biological and Biomedical Ontology (OBO)](http://obofoundry.org/) maintained by the [OBO Foundry](http://obofoundry.org)
 * [ACM Computing Classification System](https://www.acm.org/publications/class-2012) maintained by the [Association for Computing Machinery](https://www.acm.org)
 * [Physics and Astronomy Classification Scheme (PACS)](https://web.archive.org/web/20131122200802/http://www.aip.org/pacs/pacs2010/about.html) maintained by [American Institute of Physics (AIP)]() *discontinued* in 2010 and replaced by [Physics Subject Headings](https://physh.aps.org/)
