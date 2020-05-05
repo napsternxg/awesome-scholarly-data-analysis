@@ -248,6 +248,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Named Entity Recognition: (17.3 MB), 8 datasets on biomedical named entity recognition](https://github.com/dmis-lab/biobert#datasets)
 * [Relation Extraction: (2.5 MB), 2 datasets on biomedical relation extraction](https://github.com/dmis-lab/biobert#datasets)
 * [Question Answering: (5.23 MB), 3 datasets on biomedical question answering task](https://github.com/dmis-lab/biobert#datasets)
+* [SciREX : A Challenge Dataset for Document-Level Information Extraction](https://github.com/allenai/SciREX)
+* [Papers with Code - Links between papers and repositories and extraction of SOTA results](https://github.com/paperswithcode/paperswithcode-data)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
