@@ -310,6 +310,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Novelty quantification in PubMed articles](https://github.com/napsternxg/Novelty)
 * [TidyPMC - R based PMC XML parser](https://github.com/cstubben/tidypmc)
 * [PublicationHarvester - Download PubMed publications of an author](https://github.com/andrewstellman/PublicationHarvester)
+* [Publish or Perish - retrieves and analyzes academic citations from MS Academic and Scholar](https://harzing.com/resources/publish-or-perish)
 
 
 ## Tools for collecting open access papers
