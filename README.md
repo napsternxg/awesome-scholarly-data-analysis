@@ -252,6 +252,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Question Answering: (5.23 MB), 3 datasets on biomedical question answering task](https://github.com/dmis-lab/biobert#datasets)
 * [SciREX : A Challenge Dataset for Document-Level Information Extraction](https://github.com/allenai/SciREX)
 * [Papers with Code - Links between papers and repositories and extraction of SOTA results](https://github.com/paperswithcode/paperswithcode-data)
+* [Citation Context Classification based on purpose](https://www.kaggle.com/c/3c-shared-task-purpose/)
+* [Citation Context Classification based on influence](https://www.kaggle.com/c/3c-shared-task-influence/)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
