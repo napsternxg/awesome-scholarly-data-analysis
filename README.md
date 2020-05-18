@@ -101,6 +101,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
 * [Citations to scholarly data in various language wikipedias] (https://figshare.com/articles/Citations_with_identifiers_in_Wikipedia/1299540) [Code](https://github.com/mediawiki-utilities/python-mwcites)
 * [800K publications matched from CrossRef, CORE, and Mendeley with data on publication and open access dates](https://zenodo.org/record/2605409#.Xr2jZxNKjRY)
+* [Coronavirus Open Citations Dataset](https://opencitations.github.io/coronavirus/)
 
 
 ## Academic Genealogy
