@@ -53,6 +53,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Citation string parsing data for social sciences for English and German citations](https://github.com/exciteproject/EXgoldstandard) - [comparison with Grobid and Cermine](https://github.com/exciteproject/Exparser/tree/master/Evaluation/Ours)
 * [CrossRef DOI URLs](https://archive.org/details/doi-urls)
 * [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
+* [DBLP XML data](https://dblp.org/xml/release/)
 * [NBER Patent Citations](http://nber.org/patents/)
 * [Scopus Citation Database](https://www.elsevier.com/solutions/scopus)
 * [Papers, patents, and grants from Indiana University](http://iv.slis.indiana.edu/db/index.html)
