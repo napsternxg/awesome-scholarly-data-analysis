@@ -315,6 +315,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [TidyPMC - R based PMC XML parser](https://github.com/cstubben/tidypmc)
 * [PublicationHarvester - Download PubMed publications of an author](https://github.com/andrewstellman/PublicationHarvester)
 * [Publish or Perish - retrieves and analyzes academic citations from MS Academic and Scholar](https://harzing.com/resources/publish-or-perish)
+* [Affiliation string parser](https://github.com/titipata/affiliation_parser)
 
 
 ## Tools for collecting open access papers
