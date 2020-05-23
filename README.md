@@ -103,6 +103,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Citations to scholarly data in various language wikipedias] (https://figshare.com/articles/Citations_with_identifiers_in_Wikipedia/1299540) [Code](https://github.com/mediawiki-utilities/python-mwcites)
 * [800K publications matched from CrossRef, CORE, and Mendeley with data on publication and open access dates](https://zenodo.org/record/2605409#.Xr2jZxNKjRY)
 * [Coronavirus Open Citations Dataset](https://opencitations.github.io/coronavirus/)
+* [Crossref dumps](https://archive.org/search.php?query=creator%3A%22Crossref%22) [DOI meta-data](https://github.com/greenelab/crossref)
 
 
 ## Academic Genealogy
@@ -257,6 +258,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Citation Context Classification based on purpose](https://www.kaggle.com/c/3c-shared-task-purpose/)
 * [Citation Context Classification based on influence](https://www.kaggle.com/c/3c-shared-task-influence/)
 * [PubMed knowledge graph (PKG)](http://er.tacc.utexas.edu/datasets/ped) [Figshare](https://figshare.com/s/6327a55355fc2c99f3a2)
+* [Citation and Header Datasets](https://csxstatic.ist.psu.edu/downloads/data)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
@@ -318,7 +320,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PublicationHarvester - Download PubMed publications of an author](https://github.com/andrewstellman/PublicationHarvester)
 * [Publish or Perish - retrieves and analyzes academic citations from MS Academic and Scholar](https://harzing.com/resources/publish-or-perish)
 * [Affiliation string parser](https://github.com/titipata/affiliation_parser)
-
+* [CiteSeerX](https://csxstatic.ist.psu.edu/downloads/software)
 
 ## Tools for collecting open access papers
 
@@ -354,6 +356,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [EXCITE (Extraction of Citations from PDF Documents)](http://excite.west.uni-koblenz.de/website/)
 * [Science-Parse](https://github.com/allenai/science-parse)
 * [unarXiv (Citation in context from arXiv)](https://github.com/IllDepence/unarXive)
+* [](https://github.com/kermitt2/biblio-glutton)
 
 # Publication Venues
 
