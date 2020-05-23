@@ -260,6 +260,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PubMed knowledge graph (PKG)](http://er.tacc.utexas.edu/datasets/ped) [Figshare](https://figshare.com/s/6327a55355fc2c99f3a2)
 * [Citation and Header Datasets](https://csxstatic.ist.psu.edu/downloads/data)
 * [Gobrid-NER data](https://github.com/kermitt2/grobid-ner/tree/master/grobid-ner/resources/dataset)
+* [Multiple NER and Entity Linking data for science](https://github.com/kermitt2/entity-fishing/tree/master/data)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
