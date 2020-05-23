@@ -259,6 +259,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Citation Context Classification based on influence](https://www.kaggle.com/c/3c-shared-task-influence/)
 * [PubMed knowledge graph (PKG)](http://er.tacc.utexas.edu/datasets/ped) [Figshare](https://figshare.com/s/6327a55355fc2c99f3a2)
 * [Citation and Header Datasets](https://csxstatic.ist.psu.edu/downloads/data)
+* [Gobrid-NER data](https://github.com/kermitt2/grobid-ner/tree/master/grobid-ner/resources/dataset)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
