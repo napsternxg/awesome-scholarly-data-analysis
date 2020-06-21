@@ -261,6 +261,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Citation and Header Datasets](https://csxstatic.ist.psu.edu/downloads/data)
 * [Gobrid-NER data](https://github.com/kermitt2/grobid-ner/tree/master/grobid-ner/resources/dataset)
 * [Multiple NER and Entity Linking data for science](https://github.com/kermitt2/entity-fishing/tree/master/data)
+* [Scitation Context Classification](https://github.com/allenai/scicite)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
