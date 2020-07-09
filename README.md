@@ -104,7 +104,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [800K publications matched from CrossRef, CORE, and Mendeley with data on publication and open access dates](https://zenodo.org/record/2605409#.Xr2jZxNKjRY)
 * [Coronavirus Open Citations Dataset](https://opencitations.github.io/coronavirus/)
 * [Crossref dumps](https://archive.org/search.php?query=creator%3A%22Crossref%22) [DOI meta-data](https://github.com/greenelab/crossref)
-
+* [S2ORC: The Semantic Scholar Open Research Corpus - 12.7M full text papers](https://github.com/allenai/s2orc/)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
@@ -262,6 +262,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Gobrid-NER data](https://github.com/kermitt2/grobid-ner/tree/master/grobid-ner/resources/dataset)
 * [Multiple NER and Entity Linking data for science](https://github.com/kermitt2/entity-fishing/tree/master/data)
 * [Scitation Context Classification](https://github.com/allenai/scicite)
+* [S2ORC: The Semantic Scholar Open Research Corpus - 12.7M full text papers](https://github.com/allenai/s2orc/)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
