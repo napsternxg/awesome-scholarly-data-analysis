@@ -105,6 +105,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Coronavirus Open Citations Dataset](https://opencitations.github.io/coronavirus/)
 * [Crossref dumps](https://archive.org/search.php?query=creator%3A%22Crossref%22) [DOI meta-data](https://github.com/greenelab/crossref)
 * [S2ORC: The Semantic Scholar Open Research Corpus - 12.7M full text papers](https://github.com/allenai/s2orc/)
+* [Wikipedia Citations: A comprehensive dataset of citations with identifiers extracted from English Wikipedia](https://github.com/Harshdeep1996/cite-classifications-wiki)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
