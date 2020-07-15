@@ -100,7 +100,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PaperRobot - includes PubMed Paper Reading Dataset](https://github.com/EagleW/PaperRobot)
 * [SciMag - Microsoft Academic Linked to SciMago Journals](https://github.com/scimag/sciMAG2015) - [WebPage](https://scimag.github.io/sciMAG2015/)
 * [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
-* [Citations to scholarly data in various language wikipedias] (https://figshare.com/articles/Citations_with_identifiers_in_Wikipedia/1299540) [Code](https://github.com/mediawiki-utilities/python-mwcites)
+* [Citations to scholarly data in various language wikipedias](https://figshare.com/articles/Citations_with_identifiers_in_Wikipedia/1299540) [Code](https://github.com/mediawiki-utilities/python-mwcites)
 * [800K publications matched from CrossRef, CORE, and Mendeley with data on publication and open access dates](https://zenodo.org/record/2605409#.Xr2jZxNKjRY)
 * [Coronavirus Open Citations Dataset](https://opencitations.github.io/coronavirus/)
 * [Crossref dumps](https://archive.org/search.php?query=creator%3A%22Crossref%22) [DOI meta-data](https://github.com/greenelab/crossref)
