@@ -60,6 +60,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Small Network Data - Mark Newman's Lab](http://www-personal.umich.edu/~mejn/netdata/)
 * [The Koblenz Network Collection](http://konect.uni-koblenz.de/)
 * [Google Scholar citation relations](http://www3.cs.stonybrook.edu/~leman/data/gscholar.db)
+* [Google Scholar Citations data set](http://homes.sice.indiana.edu/filiradi/resources.html) [direct-download](http://homes.sice.indiana.edu/filiradi/Data/gsc_data.tar.bz2)
 * [Open citations project](http://opencitations.net/)
 * [Wikicite Project](https://meta.wikimedia.org/wiki/WikiCite)
 * [Ecnonomic Papers](http://repec.org/)
