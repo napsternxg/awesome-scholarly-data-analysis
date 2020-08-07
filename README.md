@@ -65,6 +65,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Wikicite Project](https://meta.wikimedia.org/wiki/WikiCite)
 * [Ecnonomic Papers](http://repec.org/)
 * [ArXiv data dump](https://arxiv.org/help/bulk_data)
+* [ArXiv data on Kaggle](https://www.kaggle.com/Cornell-University/arxiv)
+* [EuropePMC](http://europepmc.org/)
 * [Complete ACL anthology as bibtex file](http://aclanthology.info/anthology.bib)
 * [ACL Anthology Reference Corpus](http://acl-arc.comp.nus.edu.sg/)
 * [Astrophysics data system (ADS) - All physics papers](https://ui.adsabs.harvard.edu/)
@@ -266,6 +268,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Multiple NER and Entity Linking data for science](https://github.com/kermitt2/entity-fishing/tree/master/data)
 * [Scitation Context Classification](https://github.com/allenai/scicite)
 * [S2ORC: The Semantic Scholar Open Research Corpus - 12.7M full text papers](https://github.com/allenai/s2orc/)
+* [EuropePMC annotations for entities and relationships](http://europepmc.org/AnnotationsApi)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
