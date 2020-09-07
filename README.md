@@ -338,6 +338,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [rcoreoa](https://github.com/ropensci/rcoreoa) - [CORE](core.ac.uk) API R client
 * [metaknowledge - A Python library for doing bibliometric and network analysis in science and health policy research](https://github.com/networks-lab/metaknowledge)
 * [PubMedPortable - PubMed to Postgres](https://github.com/KerstenDoering/PubMedPortable)
+* [medic - Parsing MEDLINE and storing into a DB](https://github.com/fnl/medic)
 
 ## Tools for classifying research papers
 
