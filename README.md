@@ -111,6 +111,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Wikipedia Citations: A comprehensive dataset of citations with identifiers extracted from English Wikipedia](https://github.com/Harshdeep1996/cite-classifications-wiki)
 * [Microsoft Academic Data for conducting covid-19 research](https://github.com/microsoft/mag-covid19-research-examples)
 * [Initiative for Open Abstracts](https://i4oa.org/#openabstracts)
+* [Dataset Search: metadata for datasets - Datasets with DOIs and compact identifiers](https://www.kaggle.com/googleai/dataset-search-metadata-for-datasets)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
