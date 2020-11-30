@@ -135,7 +135,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [ORCID data dump](https://orcid.org/content/download-file)
 * [National Library of Medicine Profiles](https://profiles.nlm.nih.gov/)
 * [UIUC Professors database - Publications, Affiliations](https://experts.illinois.edu/)
-* [Author Profiles of scholarly authors in Wikipedia](https://tools.wmflabs.org/scholia/)
+* [Author Profiles of scholarly authors in Wikipedia](https://scholia.toolforge.org/)
 * [Career Transitions of CS students](https://github.com/tsafavi/career-transitions-data)
 * [Author name gender and ethnicity dataset based on PubMed](https://doi.org/10.13012/B2IDB-9087546_V1)
 * [MapAffil 2016 dataset -- PubMed author affiliations mapped to cities and their geocodes worldwide](https://doi.org/10.13012/B2IDB-4354331_V1)
