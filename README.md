@@ -52,6 +52,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Humanities and multilingual citation string parsing Flux-CiM and ICONIP](https://github.com/knmnyn/ParsCit/tree/master/doc) see [Neural ParsCit paper](https://link.springer.com/article/10.1007/s00799-018-0242-1) for details
 * [Citation string parsing data for social sciences for English and German citations](https://github.com/exciteproject/EXgoldstandard) - [comparison with Grobid and Cermine](https://github.com/exciteproject/Exparser/tree/master/Evaluation/Ours)
 * [CrossRef DOI URLs](https://archive.org/details/doi-urls)
+* [DOIboost (Crossres + MAG + ORCID + Unpaywall)](https://zenodo.org/record/3559699)
 * [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
 * [DBLP XML data](https://dblp.org/xml/release/)
 * [NBER Patent Citations](http://nber.org/patents/)
