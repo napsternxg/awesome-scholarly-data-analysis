@@ -416,3 +416,4 @@ The following people have contributed to the items on this list.
 * [Angelo Antonio Salatino](https://github.com/angelosalatino)
 * [Philipp Zumstein](https://github.com/zuphilip)
 * [Ali (Aliakbar Akbaritabar)](http://akbaritabar.netlify.com)
+* [Andrea Mannocci](https://github.com/andremann)
