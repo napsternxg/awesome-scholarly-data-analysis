@@ -45,6 +45,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Arnet Miner](http://aminer.org/citation)
 * [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/)
 * [Open Academic Graph](https://www.openacademic.ai/oag/) - MAG + AMiner
+* [OpenAIRE Research Graph](https://zenodo.org/record/4279381) - More info [here](https://graph.openaire.eu)
 * [Semantic Scholar Corpus](http://labs.semanticscholar.org/corpus/)
 * [CiteSeer](http://csxstatic.ist.psu.edu/about/data)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
@@ -311,6 +312,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Google Scholar](https://scholar.google.com/)
 * [Semantic Scholar](https://www.semanticscholar.org/)
 * [Microsoft Academic Graph](http://academic.research.microsoft.com/)
+* [OpenAIRE Explore](https://explore.openaire.eu)
 * [AceMap](http://acemap.sjtu.edu.cn/)
 * [GitXiv](http://www.gitxiv.com/)
 * [ACL Anthology](http://aclanthology.info/)
