@@ -154,12 +154,13 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [DBLP Korean Authors](http://www.lbd.dcc.ufmg.br/lbd/collections/disambiguation/DBLP.tar.gz/at_download/file)
 * [Arnet Miner](http://arnetminer.org/lab-datasets/disambiguation/rich-author-disambiguation-data.zip)
 * [Arnet Miner - Manual Name Disambiguation data 210 authors](https://aminer.org/na-data)
-* [DBLP Name disambiguation dataset](https://github.com/yaya213/DBLP-Name-Disambiguation-Dataset)
+* [DBLP Name disambiguation dataset](https://github.com/yaya213/DBLP-Name-Disambiguation-Dataset) - [Error corrected version](https://figshare.com/articles/dataset/DBLP-derived_labeled_data_for_author_name_disambiguation/6840281)
 * [rexa-coref-data](https://github.com/tapilab/rexa-coref-data)
 * [Dedped author names on IEEE Vis papers 1990-2018](https://sites.google.com/site/vispubdata/home)
 * [Author-ity dataset for PubMed 2009](https://doi.org/10.13012/B2IDB-4370459_V1)
 * [ACL Anthology dataset](https://github.com/acl-org/acl-anthology/blob/master/data/yaml/name_variants.yaml)
 * [Base data for estimating precision and recall of Author-ity among NIH-funded scientists](https://figshare.com/articles/dataset/PLoS_2016_csv/3407461/1)
+* [ORCID-Linked Labeled Data for Evaluating Author Name Disambiguation at Scale](https://figshare.com/articles/dataset/ORCID-Linked_Labeled_Data_for_Evaluating_Author_Name_Disambiguation_at_Scale/13404986)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
