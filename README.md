@@ -378,6 +378,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Biblio-Glutton](https://github.com/kermitt2/biblio-glutton)
 * [PDF/LaTeX to JSON](https://github.com/allenai/s2orc-doc2json)
 * [CrossRef Reference Matching code and evaluation data](https://github.com/CrossRef/reference-matching-evaluation)
+* [Citation style classifier and evaluation data](https://gitlab.com/crossref/citation_style_classifier)
 
 # Publication Venues
 
