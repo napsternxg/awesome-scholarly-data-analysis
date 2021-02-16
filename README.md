@@ -159,6 +159,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Dedped author names on IEEE Vis papers 1990-2018](https://sites.google.com/site/vispubdata/home)
 * [Author-ity dataset for PubMed 2009](https://doi.org/10.13012/B2IDB-4370459_V1)
 * [ACL Anthology dataset](https://github.com/acl-org/acl-anthology/blob/master/data/yaml/name_variants.yaml)
+* [Base data for estimating precision and recall of Author-ity among NIH-funded scientists](https://figshare.com/articles/dataset/PLoS_2016_csv/3407461/1)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
@@ -372,7 +373,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [EXCITE (Extraction of Citations from PDF Documents)](http://excite.west.uni-koblenz.de/website/)
 * [Science-Parse](https://github.com/allenai/science-parse)
 * [unarXiv (Citation in context from arXiv)](https://github.com/IllDepence/unarXive)
-* [](https://github.com/kermitt2/biblio-glutton)
+* [Biblio-Glutton](https://github.com/kermitt2/biblio-glutton)
+* [PDF/LaTeX to JSON](https://github.com/allenai/s2orc-doc2json)
 
 # Publication Venues
 
