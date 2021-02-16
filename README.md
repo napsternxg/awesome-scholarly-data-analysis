@@ -296,6 +296,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
   * [Socio-Economic Objective (SEO)](http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/CF7ADB06FA2DFD69CA2574180004CB82?opendocument) classification
 * [Library of Congress Classification (LCC)](https://www.loc.gov/catdir/cpso/lcc.html) maintained by [Library of Congress](https://www.loc.gov)
 * [Fields of Study (FoS)](https://academic.microsoft.com/#/topics/0/) maintained by [Microsoft Academic](https://academic.microsoft.com)
+* [CrossRef Open Funder's Registry](https://gitlab.com/crossref/open_funder_registry)
 
 ## Affiliations
 
