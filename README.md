@@ -146,6 +146,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Canadian PhD career survey](https://www.sgs.utoronto.ca/about/10000-phds-project-overview/10kphds-dashboard/) - [Science report](https://www.sciencemag.org/careers/2018/03/trend-toward-transparency-phd-career-outcomes)
 * [Data from the CVs of over 150 assistant professors in psychology in top-ranked research universities and small liberal art colleges in the US](https://osf.io/z8rhg/) - [Used in this blog](https://socialsciences.nature.com/users/325112-diego-a-reinero/posts/55118-the-path-to-professorship-by-the-numbers-and-why-mentorship-matters)
 * [Wikidata Author Disambiguation Dataset](https://github.com/arthurpsmith/author-disambiguator)
+* [The 4 Universities Data Set - Web pages of CS departments classified for author role (faculty, student, etc.)](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/)
 
 ## Author name disambiguation
 * [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
