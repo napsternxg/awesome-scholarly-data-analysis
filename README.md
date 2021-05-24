@@ -148,6 +148,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Wikidata Author Disambiguation Dataset](https://github.com/arthurpsmith/author-disambiguator)
 * [The 4 Universities Data Set - Web pages of CS departments classified for author role (faculty, student, etc.)](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/)
 * [Journal editors dataset](https://openeditors.ooir.org/)
+* [Career long various citation metrics for 100,000 top-scientists](https://data.mendeley.com/datasets/btchxktzyw/2)
 
 
 ## Author name disambiguation
@@ -343,6 +344,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Publish or Perish - retrieves and analyzes academic citations from MS Academic and Scholar](https://harzing.com/resources/publish-or-perish)
 * [Affiliation string parser](https://github.com/titipata/affiliation_parser)
 * [CiteSeerX](https://csxstatic.ist.psu.edu/downloads/software)
+* [Data Set Knowledge Graph (DSKG) -  a RDF data set about data sets](http://dskg.org/)
 
 ## Tools for collecting open access papers
 
