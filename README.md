@@ -280,6 +280,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [S2ORC: The Semantic Scholar Open Research Corpus - 12.7M full text papers](https://github.com/allenai/s2orc/)
 * [EuropePMC annotations for entities and relationships](http://europepmc.org/AnnotationsApi)
 * [PeerRead - paper drafts, reviews, and accept/reject decision](https://github.com/allenai/PeerRead)
+* [NLPContributionGraph - Structuring Scholarly NLP Contributions in the Open Research Knowledge Graph](https://ncg-task.github.io/)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
