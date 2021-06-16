@@ -44,6 +44,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Publication and Citation
 * [Arnet Miner](http://aminer.org/citation)
 * [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/)
+* [OpenAlex - Replacement for MAG](https://openalex.org/)
 * [Open Academic Graph](https://www.openacademic.ai/oag/) - MAG + AMiner
 * [OpenAIRE Research Graph](https://zenodo.org/record/4279381) - More info [here](https://graph.openaire.eu)
 * [Semantic Scholar Corpus](http://labs.semanticscholar.org/corpus/)
