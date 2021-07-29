@@ -283,6 +283,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [EuropePMC annotations for entities and relationships](http://europepmc.org/AnnotationsApi)
 * [PeerRead - paper drafts, reviews, and accept/reject decision](https://github.com/allenai/PeerRead)
 * [NLPContributionGraph - Structuring Scholarly NLP Contributions in the Open Research Knowledge Graph](https://ncg-task.github.io/)
+* [GOBRID NER](https://github.com/kermitt2/grobid-ner/tree/master/resources/dataset)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
