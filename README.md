@@ -307,6 +307,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Library of Congress Classification (LCC)](https://www.loc.gov/catdir/cpso/lcc.html) maintained by [Library of Congress](https://www.loc.gov)
 * [Fields of Study (FoS)](https://academic.microsoft.com/#/topics/0/) maintained by [Microsoft Academic](https://academic.microsoft.com)
 * [CrossRef Open Funder's Registry](https://gitlab.com/crossref/open_funder_registry)
+* [Scientific Keyphrase Extraction Datasets - KP20k, NUS, MAG_KP](https://github.com/memray/OpenNMT-kpg-release)
 
 ## Affiliations
 
