@@ -289,6 +289,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Pubtrends Review Dataset](https://github.com/JetBrains-Research/pubtrends-review/tree/master/review)
 * [PubTator Central (PTC) - NLP annotated PMC datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/)
 * [PubMedCentral Author Manuscript Collection](https://ftp.ncbi.nlm.nih.gov/pub/pmc/manuscript/)
+* [Paper analyzer pubmed](https://research.jetbrains.org/groups/paper_analyzer/projects/)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
