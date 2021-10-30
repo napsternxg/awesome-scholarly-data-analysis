@@ -286,6 +286,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [GOBRID NER](https://github.com/kermitt2/grobid-ner/tree/master/resources/dataset)
 * [GOBRID Sequence Labeling data](https://github.com/kermitt2/delft/tree/master/data/sequenceLabelling/grobid)
 * [The General Index - Metadata, Ngrams, and Keyphrases in 107,233,728 journal articles](https://archive.org/details/GeneralIndex)
+* [Pubtrends Review Dataset](https://github.com/JetBrains-Research/pubtrends-review/tree/master/review)
+* [PubTator Central (PTC) - NLP annotated PMC datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/)
+* [PubMedCentral Author Manuscript Collection](https://ftp.ncbi.nlm.nih.gov/pub/pmc/manuscript/)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
