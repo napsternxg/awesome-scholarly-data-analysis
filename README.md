@@ -290,6 +290,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PubTator Central (PTC) - NLP annotated PMC datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/)
 * [PubMedCentral Author Manuscript Collection](https://ftp.ncbi.nlm.nih.gov/pub/pmc/manuscript/)
 * [Paper analyzer pubmed](https://research.jetbrains.org/groups/paper_analyzer/projects/)
+* [NER on Material Science Papers](https://github.com/olivettigroup/annotated-materials-syntheses)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
