@@ -17,7 +17,6 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
   * [Author name disambiguation](#author-name-disambiguation)
   * [Thesis datasets](#thesis-datasets)
   * [Information Extraction and NLP](#information-extraction-and-nlp)
-  * [Networks](#networks)
   * [Taxonomies and Ontologies of Research Concepts](#taxonomies-and-ontologies-of-research-concepts)
   * [Affiliations](#affiliations)
   * [Altmetrics and Dimensions](#altmetrics-and-dimensions)
@@ -291,9 +290,6 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PubMedCentral Author Manuscript Collection](https://ftp.ncbi.nlm.nih.gov/pub/pmc/manuscript/)
 * [Paper analyzer pubmed](https://research.jetbrains.org/groups/paper_analyzer/projects/)
 * [NER on Material Science Papers](https://github.com/olivettigroup/annotated-materials-syntheses)
-
-## Networks
-* [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
 
 ## Taxonomies and Ontologies of Research Concepts
 * [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
