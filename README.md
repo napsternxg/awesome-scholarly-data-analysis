@@ -294,6 +294,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
+* [I³ Open Innovation Dataset Index](https://iiindex.org/) - Multiple datasets related to patent networks, inventor careers, etc. 
 
 ## Taxonomies and Ontologies of Research Concepts
 * [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
