@@ -291,6 +291,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PubMedCentral Author Manuscript Collection](https://ftp.ncbi.nlm.nih.gov/pub/pmc/manuscript/)
 * [Paper analyzer pubmed](https://research.jetbrains.org/groups/paper_analyzer/projects/)
 * [NER on Material Science Papers](https://github.com/olivettigroup/annotated-materials-syntheses)
+* [SoMeSci - Software Mentions in Science](https://zenodo.org/record/4968738)
+* [NLMChem a new resource for chemical entity recognition in PubMed full-text literature](https://zenodo.org/record/4628233#.Yd_YRL3MJ3g)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
@@ -315,6 +317,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Fields of Study (FoS)](https://academic.microsoft.com/#/topics/0/) maintained by [Microsoft Academic](https://academic.microsoft.com)
 * [CrossRef Open Funder's Registry](https://gitlab.com/crossref/open_funder_registry)
 * [Scientific Keyphrase Extraction Datasets - KP20k, NUS, MAG_KP](https://github.com/memray/OpenNMT-kpg-release)
+* [Grounding Scientific Entity References in STEM Scholarly Content to Authoritative Encyclopedic and Lexicographic Sources](https://fdm.luis.uni-hannover.de/tr/dataset/stem-ecr-v1-0)
+* [XL-BEL is a benchmark for cross-lingual biomedical entity linking (XL-BEL). The benchmark spans 10 typologically diverse languages](https://github.com/cambridgeltl/sapbert)
+
 
 ## Affiliations
 
