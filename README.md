@@ -173,6 +173,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [The Networked Digital Library of Theses and Dissertations (NDLTD)](http://www.ndltd.org/)
 * [PhD Dissertations in the Area of Software Engineering](http://www.sigsoft.org/dissertations.php)
 * [ProQuest Dissertations & Theses Global](http://www.proquest.com/products-services/pqdtglobal.html)
+* [History Dissertation Analysis](https://osf.io/v4ysh/)
 
 ## Information Extraction and NLP
 * [Citation Parsing](http://csxstatic.ist.psu.edu/about/scholarly-information-extraction)
