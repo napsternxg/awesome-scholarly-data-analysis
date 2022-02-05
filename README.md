@@ -364,6 +364,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Affiliation string parser](https://github.com/titipata/affiliation_parser)
 * [CiteSeerX](https://csxstatic.ist.psu.edu/downloads/software)
 * [Data Set Knowledge Graph (DSKG) -  a RDF data set about data sets](http://dskg.org/)
+* [Citation Gecko - Find related papers](https://www.citationgecko.com)
 
 ## Tools for collecting open access papers
 
