@@ -115,6 +115,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Microsoft Academic Data for conducting covid-19 research](https://github.com/microsoft/mag-covid19-research-examples)
 * [Initiative for Open Abstracts](https://i4oa.org/#openabstracts)
 * [Dataset Search: metadata for datasets - Datasets with DOIs and compact identifiers](https://www.kaggle.com/googleai/dataset-search-metadata-for-datasets)
+* [Open Syllabus Project](https://opensyllabus.org/)
+* [Journal Causal effect in Citations](https://github.com/vtraag/journal-causal-effect-replication)
+
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
@@ -294,6 +297,10 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [NER on Material Science Papers](https://github.com/olivettigroup/annotated-materials-syntheses)
 * [SoMeSci - Software Mentions in Science](https://zenodo.org/record/4968738)
 * [NLMChem a new resource for chemical entity recognition in PubMed full-text literature](https://zenodo.org/record/4628233#.Yd_YRL3MJ3g)
+* [Scientific summarization datasets](https://github.com/Santosh-Gupta/ScientificSummarizationDataSets)
+* [PubMed Classification](https://figshare.com/articles/dataset/PubMed_classification_v1_202102/16601402)
+* [Annotated scientific findings with sentence-level and aspect-level certainty](https://github.com/Jiaxin-Pei/Certainty-in-Science-Communication)
+
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
