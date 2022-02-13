@@ -117,7 +117,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Dataset Search: metadata for datasets - Datasets with DOIs and compact identifiers](https://www.kaggle.com/googleai/dataset-search-metadata-for-datasets)
 * [Open Syllabus Project](https://opensyllabus.org/)
 * [Journal Causal effect in Citations](https://github.com/vtraag/journal-causal-effect-replication)
-
+* [Sci-Hub Download Logs](https://zenodo.org/record/1158301#.YgiebbrMJ3g) - [Latest](https://sci-hub.se/stats)
+* [Sci-Hub databases](https://sci-hub.se/database)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
