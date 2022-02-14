@@ -385,6 +385,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Tools for classifying research papers
 
 * [CSO-Classifier](https://github.com/angelosalatino/cso-classifier)
+* [WikiCSSH]()
 
 ## Visualizations
 * [Rexplore](https://technologies.kmi.open.ac.uk/rexplore/)
@@ -413,6 +414,10 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PDF/LaTeX to JSON](https://github.com/allenai/s2orc-doc2json)
 * [CrossRef Reference Matching code and evaluation data](https://github.com/CrossRef/reference-matching-evaluation)
 * [Citation style classifier and evaluation data](https://gitlab.com/crossref/citation_style_classifier)
+
+## Publication and Publisher Info
+
+* [Interactive sheet for deciding publication strategy and open science](https://docs.google.com/spreadsheets/d/1ALIr6i-ufawnR1_tZBbF_Io7ihWpLZKBOD0aLhRRp0U/edit#gid=165846403) - [Tweet](https://twitter.com/jeroenbosman/status/1492876367976968193)
 
 # Publication Venues
 
