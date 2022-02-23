@@ -119,6 +119,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Journal Causal effect in Citations](https://github.com/vtraag/journal-causal-effect-replication)
 * [Sci-Hub Download Logs](https://zenodo.org/record/1158301#.YgiebbrMJ3g) - [Latest](https://sci-hub.se/stats)
 * [Sci-Hub databases](https://sci-hub.se/database)
+* [SAGE Rejected article tracker dataset from ArXiv](https://zenodo.org/record/5122848)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
@@ -385,7 +386,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Tools for classifying research papers
 
 * [CSO-Classifier](https://github.com/angelosalatino/cso-classifier)
-* [WikiCSSH]()
+* [WikiCSSH](https://uiuc-ischool-scanr.github.io/WikiCSSH/)
+* [SAGE Rejected Article Tracker](https://github.com/ad48/rejected_article_tracker_pkg)
 
 ## Visualizations
 * [Rexplore](https://technologies.kmi.open.ac.uk/rexplore/)
