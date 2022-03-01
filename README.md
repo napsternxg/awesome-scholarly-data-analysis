@@ -120,6 +120,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Sci-Hub Download Logs](https://zenodo.org/record/1158301#.YgiebbrMJ3g) - [Latest](https://sci-hub.se/stats)
 * [Sci-Hub databases](https://sci-hub.se/database)
 * [SAGE Rejected article tracker dataset from ArXiv](https://zenodo.org/record/5122848)
+* [The Open Research Knowledge Graph (ORKG)](https://www.orkg.org/orkg/)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
@@ -302,6 +303,13 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Scientific summarization datasets](https://github.com/Santosh-Gupta/ScientificSummarizationDataSets)
 * [PubMed Classification](https://figshare.com/articles/dataset/PubMed_classification_v1_202102/16601402)
 * [Annotated scientific findings with sentence-level and aspect-level certainty](https://github.com/Jiaxin-Pei/Certainty-in-Science-Communication)
+* [SoftwareKG_Social and SoftwareKG_PubMed - Software mentions in articles](https://data.gesis.org/softwarekg/site/)
+* [Bioinformatics Named Entity Recogniser for Databases and Software](https://sourceforge.net/projects/bionerds/files/goldstandard/)
+* [The CodeMeta Project: preservation, discovery, reuse, and attribution of software](https://codemeta.github.io/)
+* [Social Science Software Citation Dataset](https://github.com/f-krueger/SoSciSoCi)
+* [SoMeSci - A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles](https://data.gesis.org/somesci/)
+* [Softcite dataset: A gold-standard dataset of software mentions in research publications for supervised learning based named entity recognition](https://github.com/howisonlab/softcite-dataset)
+* [SoftwareKG-PMC:a Knowledge Graph of Software mentions extracted from articles of the PMC Open Access Dataset](https://zenodo.org/record/5780121#.Yh3QO-jMJ3h)
 
 
 ## Networks
