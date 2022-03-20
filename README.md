@@ -315,6 +315,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
 * [I³ Open Innovation Dataset Index](https://iiindex.org/) - Multiple datasets related to patent networks, inventor careers, etc. 
+* [Science4cast Competition](https://github.com/iarai/science4cast) - capture the evolution of scientific concepts and predict which research topics will emerge in the coming years
 
 ## Taxonomies and Ontologies of Research Concepts
 * [SciGraph Springer Nature](https://scigraph.springernature.com/explorer/downloads/)
