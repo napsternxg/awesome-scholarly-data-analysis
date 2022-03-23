@@ -338,6 +338,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Scientific Keyphrase Extraction Datasets - KP20k, NUS, MAG_KP](https://github.com/memray/OpenNMT-kpg-release)
 * [Grounding Scientific Entity References in STEM Scholarly Content to Authoritative Encyclopedic and Lexicographic Sources](https://fdm.luis.uni-hannover.de/tr/dataset/stem-ecr-v1-0)
 * [XL-BEL is a benchmark for cross-lingual biomedical entity linking (XL-BEL). The benchmark spans 10 typologically diverse languages](https://github.com/cambridgeltl/sapbert)
+* [IteraTeR: Understanding Iterative Revision from Human-Written Text based on ArXiv abstract edit versions](https://github.com/vipulraheja/IteraTeR)
 
 
 ## Affiliations
