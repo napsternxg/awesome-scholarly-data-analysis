@@ -384,6 +384,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CiteSeerX](https://csxstatic.ist.psu.edu/downloads/software)
 * [Data Set Knowledge Graph (DSKG) -  a RDF data set about data sets](http://dskg.org/)
 * [Citation Gecko - Find related papers](https://www.citationgecko.com)
+* [pySciSci - Python tool for working with MAG, PubMed, etc.](https://github.com/SciSciCollective/pyscisci)
 
 ## Tools for collecting open access papers
 
