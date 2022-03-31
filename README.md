@@ -156,7 +156,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [The 4 Universities Data Set - Web pages of CS departments classified for author role (faculty, student, etc.)](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/)
 * [Journal editors dataset](https://openeditors.ooir.org/)
 * [Career long various citation metrics for 100,000 top-scientists](https://data.mendeley.com/datasets/btchxktzyw/2)
-
+* [Network-Data-Career-Transitions - two anonymized network datasets of post-PhD career transitions and trajectories in computing research](https://github.com/GemsLab/Network-Data-Career-Transitions)
 
 ## Author name disambiguation
 * [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
