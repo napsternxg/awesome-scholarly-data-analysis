@@ -121,6 +121,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Sci-Hub databases](https://sci-hub.se/database)
 * [SAGE Rejected article tracker dataset from ArXiv](https://zenodo.org/record/5122848)
 * [The Open Research Knowledge Graph (ORKG)](https://www.orkg.org/orkg/)
+* [ACADEMIA INDUSTRY DYNAMICS](https://aida.kmi.open.ac.uk/)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
