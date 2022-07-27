@@ -310,6 +310,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SoMeSci - A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles](https://data.gesis.org/somesci/)
 * [Softcite dataset: A gold-standard dataset of software mentions in research publications for supervised learning based named entity recognition](https://github.com/howisonlab/softcite-dataset)
 * [SoftwareKG-PMC:a Knowledge Graph of Software mentions extracted from articles of the PMC Open Access Dataset](https://zenodo.org/record/5780121#.Yh3QO-jMJ3h)
+* [DEAL: Detecting Entities in the Astrophysics Literature](https://ui.adsabs.harvard.edu/WIESP/2022/SharedTasks)
+* [COMPUTER SCIENCE KNOWLEDGE GRAPH](https://scholkg.kmi.open.ac.uk/)
 
 
 ## Networks
