@@ -122,6 +122,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SAGE Rejected article tracker dataset from ArXiv](https://zenodo.org/record/5122848)
 * [The Open Research Knowledge Graph (ORKG)](https://www.orkg.org/orkg/)
 * [ACADEMIA INDUSTRY DYNAMICS](https://aida.kmi.open.ac.uk/)
+* [Test of Time Awards](https://github.com/LCS2-IIITD/influence-dispersion)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
@@ -315,6 +316,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [COMPUTER SCIENCE KNOWLEDGE GRAPH](https://scholkg.kmi.open.ac.uk/)
 * [SCIERC: Multi-Task Identification of Entities, Relations, and Coreferencefor Scientific Knowledge Graph Construction](https://nlp.cs.washington.edu/sciIE/) - [Code](https://bitbucket.org/luanyi/scierc/src/master/) 
 * [University of Washington BIO NLP datasets](http://depts.washington.edu/bionlp/index.html?corpora)
+* [multimodal_summ: Multimodal summarization of research papers](https://github.com/LCS2-IIITD/multimodal_summ)
 
 
 ## Networks
