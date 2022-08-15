@@ -175,6 +175,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Base data for estimating precision and recall of Author-ity among NIH-funded scientists](https://figshare.com/articles/dataset/PLoS_2016_csv/3407461/1)
 * [ORCID-Linked Labeled Data for Evaluating Author Name Disambiguation at Scale](https://figshare.com/articles/dataset/ORCID-Linked_Labeled_Data_for_Evaluating_Author_Name_Disambiguation_at_Scale/13404986)
 * [S2AND - Semantic Scholar Author Name Disambiguation Tool and Dataset](https://github.com/allenai/S2AND)
+* [BibTex Dataset for 1M authors](http://www.iesl.cs.umass.edu/data/data-bibtex)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
