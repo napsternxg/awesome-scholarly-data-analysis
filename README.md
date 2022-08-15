@@ -313,6 +313,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SoftwareKG-PMC:a Knowledge Graph of Software mentions extracted from articles of the PMC Open Access Dataset](https://zenodo.org/record/5780121#.Yh3QO-jMJ3h)
 * [DEAL: Detecting Entities in the Astrophysics Literature](https://ui.adsabs.harvard.edu/WIESP/2022/SharedTasks)
 * [COMPUTER SCIENCE KNOWLEDGE GRAPH](https://scholkg.kmi.open.ac.uk/)
+* [SCIERC: Multi-Task Identification of Entities, Relations, and Coreferencefor Scientific Knowledge Graph Construction](https://nlp.cs.washington.edu/sciIE/) - [Code](https://bitbucket.org/luanyi/scierc/src/master/) 
+* [University of Washington BIO NLP datasets](http://depts.washington.edu/bionlp/index.html?corpora)
 
 
 ## Networks
