@@ -51,7 +51,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Open Academic Graph](https://www.openacademic.ai/oag/) - MAG + AMiner
 * [OpenAIRE Research Graph](https://zenodo.org/record/4279381) - More info [here](https://graph.openaire.eu)
 * [Semantic Scholar Corpus](http://labs.semanticscholar.org/corpus/)
-* [CiteSeer](http://csxstatic.ist.psu.edu/about/data)
+* [CiteSeer](https://csxstatic.ist.psu.edu/downloads/data)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
 * [CORA datasets for citation string parsing](https://people.cs.umass.edu/~mccallum/data.html)
 * [Humanities and multilingual citation string parsing Flux-CiM and ICONIP](https://github.com/knmnyn/ParsCit/tree/master/doc) see [Neural ParsCit paper](https://link.springer.com/article/10.1007/s00799-018-0242-1) for details
