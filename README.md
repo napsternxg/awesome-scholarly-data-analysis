@@ -28,12 +28,15 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
   * [Visualizations](#visualizations)
   * [Language Processing and Information Extraction](#language-processing-and-information-extraction)
   * [Citation and metadata extraction](#citation-and-metadata-extraction)
+  * [Publication and Publisher Info](#publication-and-publisher-info)
 - [Publication Venues](#publication-venues)
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
 - [Summer Schools](#summer-schools)
+- [Courses](#courses)
 - [Associations & Community](#associations---community)
+- [Research Groups](#research-groups)
 - [Contributions](#contributions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -121,6 +124,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Sci-Hub databases](https://sci-hub.se/database)
 * [SAGE Rejected article tracker dataset from ArXiv](https://zenodo.org/record/5122848)
 * [The Open Research Knowledge Graph (ORKG)](https://www.orkg.org/orkg/)
+* [ACADEMIA INDUSTRY DYNAMICS](https://aida.kmi.open.ac.uk/)
+* [Test of Time Awards](https://github.com/LCS2-IIITD/influence-dispersion)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
@@ -138,6 +143,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SCIENTIFIC GENEALOGY MASTER LIST - Scientists Associated with Concepts in Chemistry & Physics](http://www.careerchem.com/NAMED/Genealogy-List.pdf)
 * [Economic Geneology](http://www-personal.umich.edu/~alandear/tree/INDEX.HTM) [Text Format](http://www-personal.umich.edu/~alandear/tree/Tree-In.txt)
 * [S2AMP : Semantic Scholar Analysis of Mentorship Dataset](https://github.com/allenai/S2AMP-data)
+* [MENTORSHIP - A dataset of mentorship in science with semantic and demographic estimations](https://doi.org/10.5281/zenodo.4917086) - [Code](https://github.com/sciosci/AFT-MAG)
 
 ## Author Profiles
 * [Temporal profiles of PubMed authors](http://abel.lis.illinois.edu/legolas/)
@@ -173,6 +179,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Base data for estimating precision and recall of Author-ity among NIH-funded scientists](https://figshare.com/articles/dataset/PLoS_2016_csv/3407461/1)
 * [ORCID-Linked Labeled Data for Evaluating Author Name Disambiguation at Scale](https://figshare.com/articles/dataset/ORCID-Linked_Labeled_Data_for_Evaluating_Author_Name_Disambiguation_at_Scale/13404986)
 * [S2AND - Semantic Scholar Author Name Disambiguation Tool and Dataset](https://github.com/allenai/S2AND)
+* [BibTex Dataset for 1M authors](http://www.iesl.cs.umass.edu/data/data-bibtex)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
@@ -310,6 +317,11 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SoMeSci - A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles](https://data.gesis.org/somesci/)
 * [Softcite dataset: A gold-standard dataset of software mentions in research publications for supervised learning based named entity recognition](https://github.com/howisonlab/softcite-dataset)
 * [SoftwareKG-PMC:a Knowledge Graph of Software mentions extracted from articles of the PMC Open Access Dataset](https://zenodo.org/record/5780121#.Yh3QO-jMJ3h)
+* [DEAL: Detecting Entities in the Astrophysics Literature](https://ui.adsabs.harvard.edu/WIESP/2022/SharedTasks)
+* [COMPUTER SCIENCE KNOWLEDGE GRAPH](https://scholkg.kmi.open.ac.uk/)
+* [SCIERC: Multi-Task Identification of Entities, Relations, and Coreferencefor Scientific Knowledge Graph Construction](https://nlp.cs.washington.edu/sciIE/) - [Code](https://bitbucket.org/luanyi/scierc/src/master/) 
+* [University of Washington BIO NLP datasets](http://depts.washington.edu/bionlp/index.html?corpora)
+* [multimodal_summ: Multimodal summarization of research papers](https://github.com/LCS2-IIITD/multimodal_summ)
 
 
 ## Networks
@@ -462,11 +474,17 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CWTS Scientometrics Spring School (CS3)](https://www.cwts.nl/education/cwts-scientometrics-spring-school)
 * [European Summer School of Scientometrics (ESSS)](https://www.scientometrics-school.eu/)
 
+# Courses
+* [SI 710: Science of Science - University of Michigan School of Information](https://docs.google.com/document/d/1j-S5k-KHa0mNt3eqJU-bcM4s615z62Ky5c8upBaggKo/edit#heading=h.bvzc4stuveot)
+
 # Associations & Community
 * [International Society for Informetrics and Scientometrics (ISSI)](http://issi-society.org)
 * [European Network of Indicator Designers (ENID)](http://www.forschungsinfo.de/ENID/)
 * [4S (Society for Social Studies of Science)](http://4sonline.org/)
 * [SIG/MET - Special Interest Group for the measurement of information production and use](https://www.asist.org/SIG/SIGMET/)
+
+# Research Groups
+* [Science of Science and Computational Discovery Lab - Colorado University, Boulder](https://scienceofscience.org/)
 
 # Contributions
 The following people have contributed to the items on this list. 
