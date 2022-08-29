@@ -28,12 +28,15 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
   * [Visualizations](#visualizations)
   * [Language Processing and Information Extraction](#language-processing-and-information-extraction)
   * [Citation and metadata extraction](#citation-and-metadata-extraction)
+  * [Publication and Publisher Info](#publication-and-publisher-info)
 - [Publication Venues](#publication-venues)
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
 - [Summer Schools](#summer-schools)
+- [Courses](#courses)
 - [Associations & Community](#associations---community)
+- [Research Groups](#research-groups)
 - [Contributions](#contributions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -470,14 +473,14 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CWTS Scientometrics Spring School (CS3)](https://www.cwts.nl/education/cwts-scientometrics-spring-school)
 * [European Summer School of Scientometrics (ESSS)](https://www.scientometrics-school.eu/)
 
+# Courses
+* [SI 710: Science of Science - University of Michigan School of Information](https://docs.google.com/document/d/1j-S5k-KHa0mNt3eqJU-bcM4s615z62Ky5c8upBaggKo/edit#heading=h.bvzc4stuveot)
+
 # Associations & Community
 * [International Society for Informetrics and Scientometrics (ISSI)](http://issi-society.org)
 * [European Network of Indicator Designers (ENID)](http://www.forschungsinfo.de/ENID/)
 * [4S (Society for Social Studies of Science)](http://4sonline.org/)
 * [SIG/MET - Special Interest Group for the measurement of information production and use](https://www.asist.org/SIG/SIGMET/)
-
-# Courses
-* [SI 710: Science of Science - University of Michigan School of Information](https://docs.google.com/document/d/1j-S5k-KHa0mNt3eqJU-bcM4s615z62Ky5c8upBaggKo/edit#heading=h.bvzc4stuveot)
 
 # Research Groups
 * [Science of Science and Computational Discovery Lab - Colorado University, Boulder](https://scienceofscience.org/)
