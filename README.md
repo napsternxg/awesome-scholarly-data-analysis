@@ -139,7 +139,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Wikipedia - Chemists Genealogy](https://en.wikipedia.org/wiki/Academic_genealogy_of_chemists)
 * [SCIENTIFIC GENEALOGY MASTER LIST - Scientists Associated with Concepts in Chemistry & Physics](http://www.careerchem.com/NAMED/Genealogy-List.pdf)
 * [Economic Geneology](http://www-personal.umich.edu/~alandear/tree/INDEX.HTM) [Text Format](http://www-personal.umich.edu/~alandear/tree/Tree-In.txt)
-
+* [MENTORSHIP - A dataset of mentorship in science with semantic and demographic estimations](https://doi.org/10.5281/zenodo.4917086) - [Code](https://github.com/sciosci/AFT-MAG)
 
 ## Author Profiles
 * [Temporal profiles of PubMed authors](http://abel.lis.illinois.edu/legolas/)
@@ -475,6 +475,12 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [European Network of Indicator Designers (ENID)](http://www.forschungsinfo.de/ENID/)
 * [4S (Society for Social Studies of Science)](http://4sonline.org/)
 * [SIG/MET - Special Interest Group for the measurement of information production and use](https://www.asist.org/SIG/SIGMET/)
+
+# Courses
+* [SI 710: Science of Science - University of Michigan School of Information](https://docs.google.com/document/d/1j-S5k-KHa0mNt3eqJU-bcM4s615z62Ky5c8upBaggKo/edit#heading=h.bvzc4stuveot)
+
+# Research Groups
+* [Science of Science and Computational Discovery Lab - Colorado University, Boulder](https://scienceofscience.org/)
 
 # Contributions
 The following people have contributed to the items on this list. 
