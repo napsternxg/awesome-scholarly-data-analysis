@@ -142,6 +142,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Wikipedia - Chemists Genealogy](https://en.wikipedia.org/wiki/Academic_genealogy_of_chemists)
 * [SCIENTIFIC GENEALOGY MASTER LIST - Scientists Associated with Concepts in Chemistry & Physics](http://www.careerchem.com/NAMED/Genealogy-List.pdf)
 * [Economic Geneology](http://www-personal.umich.edu/~alandear/tree/INDEX.HTM) [Text Format](http://www-personal.umich.edu/~alandear/tree/Tree-In.txt)
+* [S2AMP : Semantic Scholar Analysis of Mentorship Dataset](https://github.com/allenai/S2AMP-data)
 * [MENTORSHIP - A dataset of mentorship in science with semantic and demographic estimations](https://doi.org/10.5281/zenodo.4917086) - [Code](https://github.com/sciosci/AFT-MAG)
 
 ## Author Profiles
