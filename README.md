@@ -322,6 +322,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [SCIERC: Multi-Task Identification of Entities, Relations, and Coreferencefor Scientific Knowledge Graph Construction](https://nlp.cs.washington.edu/sciIE/) - [Code](https://bitbucket.org/luanyi/scierc/src/master/) 
 * [University of Washington BIO NLP datasets](http://depts.washington.edu/bionlp/index.html?corpora)
 * [multimodal_summ: Multimodal summarization of research papers](https://github.com/LCS2-IIITD/multimodal_summ)
+* [ACL Anthology Corpus - Full Text](https://github.com/shauryr/ACL-anthology-corpus)
 
 
 ## Networks
