@@ -180,6 +180,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [ORCID-Linked Labeled Data for Evaluating Author Name Disambiguation at Scale](https://figshare.com/articles/dataset/ORCID-Linked_Labeled_Data_for_Evaluating_Author_Name_Disambiguation_at_Scale/13404986)
 * [S2AND - Semantic Scholar Author Name Disambiguation Tool and Dataset](https://github.com/allenai/S2AND)
 * [BibTex Dataset for 1M authors](http://www.iesl.cs.umass.edu/data/data-bibtex)
+* [Ethnicity sensitive author disambiguation from INSPIRE HEP](https://github.com/glouppe/paper-author-disambiguation)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
@@ -444,6 +445,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Publication and Publisher Info
 
 * [Interactive sheet for deciding publication strategy and open science](https://docs.google.com/spreadsheets/d/1ALIr6i-ufawnR1_tZBbF_Io7ihWpLZKBOD0aLhRRp0U/edit#gid=165846403) - [Tweet](https://twitter.com/jeroenbosman/status/1492876367976968193)
+
+## Author Name Disambiguation
+* [Bibliographic Entity Automatic Recognition and Disambiguation](https://github.com/inspirehep/beard) - [paper](https://arxiv.org/abs/1508.07744)
 
 # Publication Venues
 
