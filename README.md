@@ -441,6 +441,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PDF/LaTeX to JSON](https://github.com/allenai/s2orc-doc2json)
 * [CrossRef Reference Matching code and evaluation data](https://github.com/CrossRef/reference-matching-evaluation)
 * [Citation style classifier and evaluation data](https://gitlab.com/crossref/citation_style_classifier)
+* [refextract - extracting references used in scholarly communication](https://github.com/inspirehep/refextract)
 
 ## Publication and Publisher Info
 
