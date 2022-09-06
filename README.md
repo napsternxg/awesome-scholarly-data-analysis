@@ -324,6 +324,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [University of Washington BIO NLP datasets](http://depts.washington.edu/bionlp/index.html?corpora)
 * [multimodal_summ: Multimodal summarization of research papers](https://github.com/LCS2-IIITD/multimodal_summ)
 * [ACL Anthology Corpus - Full Text](https://github.com/shauryr/ACL-anthology-corpus)
+* [Entity Linking of Crossref Funding Orgs in Acknowledgements](https://github.com/SEYED7037/EDFund_sample_dataset) - [paper](https://arxiv.org/abs/2209.00351)
+* [Microsoft Academic Knowledge Graph (MAKG)](https://makg.org/) - [Zenodo](http://doi.org/10.5281/zenodo.3936556) [ComplEx entity embeddings (120 GB) for all 243 million authors, 239 publications, 49,000 journals, and 16,000 conferences](https://makg.org/entity-embeddings/)
 
 
 ## Networks
