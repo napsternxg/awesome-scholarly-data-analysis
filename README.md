@@ -12,6 +12,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 - [Table of Contents](#table-of-contents)
 - [Datasets](#datasets)
   * [Publication and Citation](#publication-and-citation)
+  * [Grants and Funding](#grants-and-funding)
   * [Academic Genealogy](#academic-genealogy)
   * [Author Profiles](#author-profiles)
   * [Author name disambiguation](#author-name-disambiguation)
@@ -126,6 +127,12 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [The Open Research Knowledge Graph (ORKG)](https://www.orkg.org/orkg/)
 * [ACADEMIA INDUSTRY DYNAMICS](https://aida.kmi.open.ac.uk/)
 * [Test of Time Awards](https://github.com/LCS2-IIITD/influence-dispersion)
+
+## Grants and Funding
+* [GrantExplorer: a free, open-source tool for examining the phrases funded by U.S. federal agencies](https://www.grantexplorer.org/?about=1&org=dod)
+* [USASpending.gov: Award Data Archive](https://www.usaspending.gov/download_center/award_data_archive)
+* [NIH research funding](https://report.nih.gov/databases)
+* [Authors linked to PIs in NIH Grants](http://abel.lis.illinois.edu/cgi-bin/authorlink/search.pl)
 
 ## Academic Genealogy
 * [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
