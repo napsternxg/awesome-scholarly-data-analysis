@@ -12,6 +12,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 - [Table of Contents](#table-of-contents)
 - [Datasets](#datasets)
   * [Publication and Citation](#publication-and-citation)
+  * [Peer Review](#peer-review)
   * [Grants and Funding](#grants-and-funding)
   * [Academic Genealogy](#academic-genealogy)
   * [Author Profiles](#author-profiles)
@@ -30,14 +31,15 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
   * [Language Processing and Information Extraction](#language-processing-and-information-extraction)
   * [Citation and metadata extraction](#citation-and-metadata-extraction)
   * [Publication and Publisher Info](#publication-and-publisher-info)
-- [Publication Venues](#publication-venues)
+- [Community](#community)
   * [Journals](#journals)
   * [Conferences](#conferences)
   * [Workshops](#workshops)
-- [Summer Schools](#summer-schools)
-- [Courses](#courses)
-- [Associations & Community](#associations---community)
-- [Research Groups](#research-groups)
+  * [Summer Schools](#summer-schools)
+  * [Courses](#courses)
+  * [Associations & Community](#associations---community)
+  * [Research Groups](#research-groups)
+  * [Blogs](#blogs)
 - [Contributions](#contributions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -128,6 +130,18 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [ACADEMIA INDUSTRY DYNAMICS](https://aida.kmi.open.ac.uk/)
 * [Test of Time Awards](https://github.com/LCS2-IIITD/influence-dispersion)
 
+## Peer Review
+
+* [PeerRead - paper drafts, reviews, and accept/reject decision](https://github.com/allenai/PeerRead)
+* [CiteTracked: A Longitudinal Dataset of Peer Reviews and Citations - Contact Author](http://ceur-ws.org/Vol-2414/paper12.pdf)
+* [Elsevier's Peer Review Workbench](https://lab.icsr.net/icsr_lab/workbenches.html)
+* [ACL-18 Numerical Peer Review Dataset](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2639?locale-attribute=en_US)
+* [Argument Mining for Understanding Peer Reviews](https://xinyuhua.github.io/Resources/naacl19/)
+* [APE: Argument Pair Extraction - Annotated ICLR 2013-2020 review-rebuttal argument pair](https://github.com/LiyingCheng95/ArgumentPairExtraction)
+* [Argument Mining Driven Analysis of Peer-Reviews Dataset](https://doi.org/10.5281/zenodo.4314390)
+* [Publons review length dataset with 498K reviews - anonymized](https://clarivate.com/blog/its-not-the-size-that-matters/)
+* [Peer review analyze: A novel benchmark resource for computational analysis of peer reviews](https://github.com/Tirthankar-Ghosal/Peer-Review-Analyze-1.0)
+
 ## Grants and Funding
 * [GrantExplorer: a free, open-source tool for examining the phrases funded by U.S. federal agencies](https://www.grantexplorer.org/?about=1&org=dod)
 * [USASpending.gov: Award Data Archive](https://www.usaspending.gov/download_center/award_data_archive)
@@ -195,6 +209,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [PhD Dissertations in the Area of Software Engineering](http://www.sigsoft.org/dissertations.php)
 * [ProQuest Dissertations & Theses Global](http://www.proquest.com/products-services/pqdtglobal.html)
 * [History Dissertation Analysis](https://osf.io/v4ysh/)
+* [Peer-making: the interconnections between PhD Thesis Committee membership and co-publishing](https://github.com/Marion-Mai/peer-making) - [Zenodo](https://doi.org/10.5281/zenodo.4966081)
+* [DISAPERE: A Dataset for DIscourse Structure in Academic PEer REview](https://github.com/nnkennard/DISAPERE)
 
 ## Information Extraction and NLP
 * [Citation Parsing](http://csxstatic.ist.psu.edu/about/scholarly-information-extraction)
@@ -245,8 +261,6 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [The Regulatory Network of Plant Seed Development (SeeDev) Task - NER, Relation](https://sites.google.com/view/seedev2019/home?authuser=0)
 * [TalkSumm - Summary of papers via alignment to talks](https://github.com/levguy/talksumm)
 * [SeminalSurveyDBLP - Classification of seminal or survey papers](https://zenodo.org/record/3258164#.XWac_-hKh3g)
-* [A Dataset of Peer Reviews (PeerRead)](https://github.com/allenai/PeerRead)
-* [CiteTracked: A Longitudinal Dataset of Peer Reviews and Citations](http://ceur-ws.org/Vol-2414/paper12.pdf)
 * [Supp.ai - PubMed supplement-drug interactions and supplement-supplement interactions](https://github.com/lucylw/supp-ai-extracted-sdi-data/)
 * [GENETAG](https://github.com/openbiocorpora/genetag) - More recent versions [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S3) and [Download 2005](ftp://ftp.ncbi.nlm.nih.gov/pub/tanabe/GENETAG.tar.gz)
 * [MedTag: A Collection of Biomedical Annotations](https://www.aclweb.org/anthology/W05-1305) - [Download](ftp://ftp.ncbi.nlm.nih.gov/pub/lsmith/MedTag/)
@@ -303,7 +317,6 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Scitation Context Classification](https://github.com/allenai/scicite)
 * [S2ORC: The Semantic Scholar Open Research Corpus - 12.7M full text papers](https://github.com/allenai/s2orc/)
 * [EuropePMC annotations for entities and relationships](http://europepmc.org/AnnotationsApi)
-* [PeerRead - paper drafts, reviews, and accept/reject decision](https://github.com/allenai/PeerRead)
 * [NLPContributionGraph - Structuring Scholarly NLP Contributions in the Open Research Knowledge Graph](https://ncg-task.github.io/)
 * [GOBRID NER](https://github.com/kermitt2/grobid-ner/tree/master/resources/dataset)
 * [GOBRID Sequence Labeling data](https://github.com/kermitt2/delft/tree/master/data/sequenceLabelling/grobid)
@@ -460,7 +473,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Author Name Disambiguation
 * [Bibliographic Entity Automatic Recognition and Disambiguation](https://github.com/inspirehep/beard) - [paper](https://arxiv.org/abs/1508.07744)
 
-# Publication Venues
+# Community
 
 ## Journals
 * [Frontiers in Research Metrics and Analytics](https://www.frontiersin.org/journals/research-metrics-and-analytics) 
@@ -486,21 +499,28 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Enabling Open Semantic Science (SemSci)](https://semsci.github.io/SemSci2018/)
 * [Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/index.html)
 
-# Summer Schools
+## Summer Schools
 * [CWTS Scientometrics Spring School (CS3)](https://www.cwts.nl/education/cwts-scientometrics-spring-school)
 * [European Summer School of Scientometrics (ESSS)](https://www.scientometrics-school.eu/)
 
-# Courses
+## Courses
 * [SI 710: Science of Science - University of Michigan School of Information](https://docs.google.com/document/d/1j-S5k-KHa0mNt3eqJU-bcM4s615z62Ky5c8upBaggKo/edit#heading=h.bvzc4stuveot)
 
-# Associations & Community
+## Associations & Community
 * [International Society for Informetrics and Scientometrics (ISSI)](http://issi-society.org)
 * [European Network of Indicator Designers (ENID)](http://www.forschungsinfo.de/ENID/)
 * [4S (Society for Social Studies of Science)](http://4sonline.org/)
 * [SIG/MET - Special Interest Group for the measurement of information production and use](https://www.asist.org/SIG/SIGMET/)
 
-# Research Groups
+## Research Groups
 * [Science of Science and Computational Discovery Lab - Colorado University, Boulder](https://scienceofscience.org/)
+
+## Blogs
+
+* [Clarivate Blog](https://clarivate.com/blog/)
+* [Elsevier Connect](https://www.elsevier.com/connect)
+* [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/)
+
 
 # Contributions
 The following people have contributed to the items on this list. 
