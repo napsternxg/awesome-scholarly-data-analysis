@@ -63,6 +63,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [DOIboost (Crossres + MAG + ORCID + Unpaywall)](https://zenodo.org/record/3559699)
 * [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
 * [DBLP XML data](https://dblp.org/xml/release/)
+* [DBLP Discovery Dataset (D3)](https://github.com/gipplab/d3-dataset)
 * [NBER Patent Citations](http://nber.org/patents/)
 * [Scopus Citation Database](https://www.elsevier.com/solutions/scopus)
 * [Papers, patents, and grants from Indiana University](http://iv.slis.indiana.edu/db/index.html)
