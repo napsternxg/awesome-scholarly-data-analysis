@@ -348,7 +348,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Entity Linking of Crossref Funding Orgs in Acknowledgements](https://github.com/SEYED7037/EDFund_sample_dataset) - [paper](https://arxiv.org/abs/2209.00351)
 * [Microsoft Academic Knowledge Graph (MAKG)](https://makg.org/) - [Zenodo](http://doi.org/10.5281/zenodo.3936556) [ComplEx entity embeddings (120 GB) for all 243 million authors, 239 publications, 49,000 journals, and 16,000 conferences](https://makg.org/entity-embeddings/)
 * [Wikidata:WikiProject Clinical Trials](https://www.wikidata.org/wiki/Wikidata:WikiProject_Clinical_Trials)
-
+* [A Dataset of Alt Texts from HCI Publications](https://github.com/allenai/hci-alt-texts)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
