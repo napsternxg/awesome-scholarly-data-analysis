@@ -142,6 +142,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Argument Mining Driven Analysis of Peer-Reviews Dataset](https://doi.org/10.5281/zenodo.4314390)
 * [Publons review length dataset with 498K reviews - anonymized](https://clarivate.com/blog/its-not-the-size-that-matters/)
 * [Peer review analyze: A novel benchmark resource for computational analysis of peer reviews](https://github.com/Tirthankar-Ghosal/Peer-Review-Analyze-1.0)
+* [Open Editors: data about scholarly journals' editors and editorial board members](https://openeditors.ooir.org/) - [Github](https://github.com/andreaspacher/openeditors)
 
 ## Grants and Funding
 * [GrantExplorer: a free, open-source tool for examining the phrases funded by U.S. federal agencies](https://www.grantexplorer.org/?about=1&org=dod)
