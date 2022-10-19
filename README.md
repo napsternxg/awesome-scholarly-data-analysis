@@ -204,6 +204,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [S2AND - Semantic Scholar Author Name Disambiguation Tool and Dataset](https://github.com/allenai/S2AND)
 * [BibTex Dataset for 1M authors](http://www.iesl.cs.umass.edu/data/data-bibtex)
 * [Ethnicity sensitive author disambiguation from INSPIRE HEP](https://github.com/glouppe/paper-author-disambiguation)
+* [Pre-processed PubMed data for a study of coauthorship](https://zenodo.org/record/345934)
 
 ## Thesis datasets
 * [Open Access Theses and Dissertations](https://oatd.org/)
@@ -350,6 +351,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Microsoft Academic Knowledge Graph (MAKG)](https://makg.org/) - [Zenodo](http://doi.org/10.5281/zenodo.3936556) [ComplEx entity embeddings (120 GB) for all 243 million authors, 239 publications, 49,000 journals, and 16,000 conferences](https://makg.org/entity-embeddings/)
 * [Wikidata:WikiProject Clinical Trials](https://www.wikidata.org/wiki/Wikidata:WikiProject_Clinical_Trials)
 * [A Dataset of Alt Texts from HCI Publications](https://github.com/allenai/hci-alt-texts)
+* [PubMed-OA-Extraction-dataset](https://zenodo.org/record/6330817)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
