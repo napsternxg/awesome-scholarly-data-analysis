@@ -214,6 +214,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [History Dissertation Analysis](https://osf.io/v4ysh/)
 * [Peer-making: the interconnections between PhD Thesis Committee membership and co-publishing](https://github.com/Marion-Mai/peer-making) - [Zenodo](https://doi.org/10.5281/zenodo.4966081)
 * [DISAPERE: A Dataset for DIscourse Structure in Academic PEer REview](https://github.com/nnkennard/DISAPERE)
+* [ETDs: Virginia Tech Electronic Theses and Dissertations](https://vtechworks.lib.vt.edu/handle/10919/5534)
 
 ## Information Extraction and NLP
 * [Citation Parsing](http://csxstatic.ist.psu.edu/about/scholarly-information-extraction)
