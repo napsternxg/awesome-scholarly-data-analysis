@@ -130,6 +130,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [The Open Research Knowledge Graph (ORKG)](https://www.orkg.org/orkg/)
 * [ACADEMIA INDUSTRY DYNAMICS](https://aida.kmi.open.ac.uk/)
 * [Test of Time Awards](https://github.com/LCS2-IIITD/influence-dispersion)
+* [ACL-Cite-Net](https://github.com/iamjanvijay/acl-cite-net)
+* [The DBLP Discovery Dataset (D3): A Massive Dataset of Scholarly Metadata for Analyzing the State of Computer Science Research](https://github.com/jpwahle/lrec22-d3-dataset) [Zenodo](https://zenodo.org/record/7069915)
 
 ## Peer Review
 
@@ -143,6 +145,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Publons review length dataset with 498K reviews - anonymized](https://clarivate.com/blog/its-not-the-size-that-matters/)
 * [Peer review analyze: A novel benchmark resource for computational analysis of peer reviews](https://github.com/Tirthankar-Ghosal/Peer-Review-Analyze-1.0)
 * [Open Editors: data about scholarly journals' editors and editorial board members](https://openeditors.ooir.org/) - [Github](https://github.com/andreaspacher/openeditors)
+* [NLPEER: A Unified Resource for the Computational Study of Peer Review](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/3618)
 
 ## Grants and Funding
 * [GrantExplorer: a free, open-source tool for examining the phrases funded by U.S. federal agencies](https://www.grantexplorer.org/?about=1&org=dod)
