@@ -356,6 +356,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Wikidata:WikiProject Clinical Trials](https://www.wikidata.org/wiki/Wikidata:WikiProject_Clinical_Trials)
 * [A Dataset of Alt Texts from HCI Publications](https://github.com/allenai/hci-alt-texts)
 * [PubMed-OA-Extraction-dataset](https://zenodo.org/record/6330817)
+* [SciRepEval: A Multi-Format Benchmark for Scientific Document Representations](https://github.com/allenai/scirepeval)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
