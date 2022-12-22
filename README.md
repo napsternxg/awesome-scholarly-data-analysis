@@ -53,7 +53,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [OpenAlex - Replacement for MAG](https://openalex.org/)
 * [Open Academic Graph](https://www.openacademic.ai/oag/) - MAG + AMiner
 * [OpenAIRE Research Graph](https://zenodo.org/record/4279381) - More info [here](https://graph.openaire.eu)
-* [Semantic Scholar Corpus](http://labs.semanticscholar.org/corpus/)
+* [Semantic Scholar Corpus](https://www.semanticscholar.org/product/api)
 * [CiteSeer](https://csxstatic.ist.psu.edu/downloads/data)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
 * [CORA datasets for citation string parsing](https://people.cs.umass.edu/~mccallum/data.html)
