@@ -126,7 +126,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Journal Causal effect in Citations](https://github.com/vtraag/journal-causal-effect-replication)
 * [Sci-Hub Download Logs](https://zenodo.org/record/1158301#.YgiebbrMJ3g) - [Latest](https://sci-hub.se/stats)
 * [Sci-Hub databases](https://sci-hub.se/database)
-* [SAGE Rejected article tracker dataset from ArXiv](https://zenodo.org/record/5122848)
+* [SAGE Rejected article tracker dataset from ArXiv](https://zenodo.org/record/5122848) - [Github](https://github.com/sagepublishing/rejected_article_tracker_pkg)
 * [The Open Research Knowledge Graph (ORKG)](https://www.orkg.org/orkg/)
 * [ACADEMIA INDUSTRY DYNAMICS](https://aida.kmi.open.ac.uk/)
 * [Test of Time Awards](https://github.com/LCS2-IIITD/influence-dispersion)
