@@ -146,6 +146,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Peer review analyze: A novel benchmark resource for computational analysis of peer reviews](https://github.com/Tirthankar-Ghosal/Peer-Review-Analyze-1.0)
 * [Open Editors: data about scholarly journals' editors and editorial board members](https://openeditors.ooir.org/) - [Github](https://github.com/andreaspacher/openeditors)
 * [NLPEER: A Unified Resource for the Computational Study of Peer Review](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/3618)
+* [eLife Open Peer Review Corpus](https://doi.org/10.18150/FKPEQN)
+* [PLoS Open Peer Review Corpus](https://doi.org/10.18150/KZHVGE)
+* [MDPI Open Peer Review Corpus](https://doi.org/10.18150/D5L2EK)
 
 ## Grants and Funding
 * [GrantExplorer: a free, open-source tool for examining the phrases funded by U.S. federal agencies](https://www.grantexplorer.org/?about=1&org=dod)
