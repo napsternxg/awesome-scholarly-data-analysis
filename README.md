@@ -133,6 +133,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [ACL-Cite-Net](https://github.com/iamjanvijay/acl-cite-net)
 * [The DBLP Discovery Dataset (D3): A Massive Dataset of Scholarly Metadata for Analyzing the State of Computer Science Research](https://github.com/jpwahle/lrec22-d3-dataset) [Zenodo](https://zenodo.org/record/7069915)
 * [Papers and patents are becoming less disruptive over time](https://zenodo.org/record/7258379) - [Paper](https://www.nature.com/articles/s41586-022-05543-x)
+* [OpenAIRE Research Graph Dump](https://zenodo.org/record/7488618)
 
 ## Peer Review
 
