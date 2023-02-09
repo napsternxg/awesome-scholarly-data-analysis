@@ -362,6 +362,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [A Dataset of Alt Texts from HCI Publications](https://github.com/allenai/hci-alt-texts)
 * [PubMed-OA-Extraction-dataset](https://zenodo.org/record/6330817)
 * [SciRepEval: A Multi-Format Benchmark for Scientific Document Representations](https://github.com/allenai/scirepeval)
+* [The MAPLE Benchmark for Scientific Literature Tagging](https://zenodo.org/record/7611544)
 
 ## Networks
 * [ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php)
