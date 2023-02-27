@@ -223,6 +223,10 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Peer-making: the interconnections between PhD Thesis Committee membership and co-publishing](https://github.com/Marion-Mai/peer-making) - [Zenodo](https://doi.org/10.5281/zenodo.4966081)
 * [DISAPERE: A Dataset for DIscourse Structure in Academic PEer REview](https://github.com/nnkennard/DISAPERE)
 * [ETDs: Virginia Tech Electronic Theses and Dissertations](https://vtechworks.lib.vt.edu/handle/10919/5534)
+* [DSpace@MIT: a digital repository for MIT's research, including peer-reviewed articles, technical reports, working papers, theses, and more](https://dspace.mit.edu/)
+* [The ScanBank Dataset: A Benchmark Dataset for Figure Extraction from Scanned Electronic Theses and Dissertations](https://zenodo.org/record/4663578)
+* [ETDMiner: extract metadata from scanned ETD](https://github.com/lamps-lab/ETDMiner/tree/master) [Google Drive](https://drive.google.com/drive/folders/1y6cADt2JJvNA10wnmlGBeMBJJrrBo6RV)
+
 
 ## Information Extraction and NLP
 * [Citation Parsing](http://csxstatic.ist.psu.edu/about/scholarly-information-extraction)
@@ -392,7 +396,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [XL-BEL is a benchmark for cross-lingual biomedical entity linking (XL-BEL). The benchmark spans 10 typologically diverse languages](https://github.com/cambridgeltl/sapbert)
 * [IteraTeR: Understanding Iterative Revision from Human-Written Text based on ArXiv abstract edit versions](https://github.com/vipulraheja/IteraTeR)
 * [CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation](https://github.com/morningmoni/CiteSum)
-
+* [AckExtract: Acknowledgement and its name entities extraction from scholarly papers](https://github.com/lamps-lab/ackextract)
+* [The MSVEC Dataset: Multi-Domain Scientific Claim Verification Evaluation Corpus (MSVEC)](https://github.com/lamps-lab/msvec)
+* [GIANT: The 1-Billion Annotated Synthetic Bibliographic-Reference-String Dataset for Deep Citation Parsing](https://isg.beel.org/blog/2019/12/10/giant-the-1-billion-annotated-synthetic-bibliographic-reference-string-dataset-for-deep-citation-parsing-pre-print/) - [dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LXQXAO)
 
 ## Affiliations
 
