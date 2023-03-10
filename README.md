@@ -194,6 +194,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Journal editors dataset](https://openeditors.ooir.org/)
 * [Career long various citation metrics for 100,000 top-scientists](https://data.mendeley.com/datasets/btchxktzyw/2)
 * [Network-Data-Career-Transitions - two anonymized network datasets of post-PhD career transitions and trajectories in computing research](https://github.com/GemsLab/Network-Data-Career-Transitions)
+* [Open dataset of scholars on Twitter - 500K OpenAlex Author ID to Twitter User Id](https://zenodo.org/record/7013518#.ZAsZei9Xac4)
 
 ## Author name disambiguation
 * [INSPIRE dataset](https://github.com/glouppe/paper-author-disambiguation)
