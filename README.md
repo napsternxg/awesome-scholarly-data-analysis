@@ -134,6 +134,9 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [The DBLP Discovery Dataset (D3): A Massive Dataset of Scholarly Metadata for Analyzing the State of Computer Science Research](https://github.com/jpwahle/lrec22-d3-dataset) [Zenodo](https://zenodo.org/record/7069915)
 * [Papers and patents are becoming less disruptive over time](https://zenodo.org/record/7258379) - [Paper](https://www.nature.com/articles/s41586-022-05543-x)
 * [OpenAIRE Research Graph Dump](https://zenodo.org/record/7488618)
+* [OpCitance: Citation contexts identified from the PubMed Central open access articles](https://databank.illinois.edu/datasets/IDB-7312599)
+* [A large dataset of scientific text reuse in Open-Access publications](https://github.com/webis-de/scidata22-stereo-scientific-text-reuse)
+* [A dataset of publication records for Nobel laureates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NJ5RN)
 
 ## Peer Review
 
