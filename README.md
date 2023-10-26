@@ -178,6 +178,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Economic Geneology](http://www-personal.umich.edu/~alandear/tree/INDEX.HTM) [Text Format](http://www-personal.umich.edu/~alandear/tree/Tree-In.txt)
 * [S2AMP : Semantic Scholar Analysis of Mentorship Dataset](https://github.com/allenai/S2AMP-data)
 * [MENTORSHIP - A dataset of mentorship in science with semantic and demographic estimations](https://doi.org/10.5281/zenodo.4917086) - [Code](https://github.com/sciosci/AFT-MAG)
+* [A dataset of mentorship in science with semantic and demographic estimations - Used in The academic Great Gatsby Curve paper](https://zenodo.org/records/4917086)
 
 ## Author Profiles
 * [Temporal profiles of PubMed authors](http://abel.lis.illinois.edu/legolas/)
