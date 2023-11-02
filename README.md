@@ -219,7 +219,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [BibTex Dataset for 1M authors](http://www.iesl.cs.umass.edu/data/data-bibtex)
 * [Ethnicity sensitive author disambiguation from INSPIRE HEP](https://github.com/glouppe/paper-author-disambiguation)
 * [Pre-processed PubMed data for a study of coauthorship](https://zenodo.org/record/345934)
-* [WhoIsWho: Web-Scale Academic Name Disambiguation:the WhoIsWho Benchmark,Leaderboard,and Toolkit](http://whoiswho.biendata.xyz/) - [https://www.aminer.cn/whoiswho](https://www.aminer.cn/whoiswho)
+* [WhoIsWho: Web-Scale Academic Name Disambiguation:the WhoIsWho Benchmark,Leaderboard,and Toolkit](http://whoiswho.biendata.xyz/) - [https://www.aminer.cn/whoiswho](https://www.aminer.cn/whoiswho) - [WhoIsWho Toolkit GitHub](https://github.com/THUDM/WhoIsWho)
 * [LAGOS-AND: A Large Gold Standard Dataset for Scholarly Author Name Disambiguation](https://zenodo.org/record/7313380) - [Github](https://github.com/carmanzhang/LAGOS-AND)
 * [Chain Dream : Name Disambiguation Task2](https://www.biendata.xyz/competition/chaindream_nd_task2/)
 
