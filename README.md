@@ -478,6 +478,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 * [WOS2Pajek](http://vladowiki.fmf.uni-lj.si/doku.php?id=pajek:wos2pajek)
+* [MetaReview - Free Online Meta-Analysis Platform](https://metareview-8c1.pages.dev/) - Statistical meta-analysis with forest plots, funnel plots, network diagrams, and 20+ visualization types for systematic reviews.
 
 ## Language Processing and Information Extraction
 
