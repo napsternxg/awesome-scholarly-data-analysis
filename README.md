@@ -456,6 +456,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Citation Gecko - Find related papers](https://www.citationgecko.com)
 * [pySciSci - Python tool for working with MAG, PubMed, etc.](https://github.com/SciSciCollective/pyscisci)
 * [ACM Digital Library](https://dl.acm.org/)
+* [Spraay x402 Gateway](https://docs.spraay.app/#cat-research) - x402 payment API for AI agents with 23 research endpoints: OpenAlex, Crossref, arXiv, PubMed, PubChem, and US Census. Pay-per-call in USDC, no API keys.
 
 ## Tools for collecting open access papers
 
