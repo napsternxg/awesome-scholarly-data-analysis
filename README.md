@@ -138,6 +138,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [A large dataset of scientific text reuse in Open-Access publications](https://github.com/webis-de/scidata22-stereo-scientific-text-reuse)
 * [A dataset of publication records for Nobel laureates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NJ5RN)
 * [Rich Context Text Analysis Competition](https://github.com/Coleridge-Initiative/rich-context-competition)
+* [CitationTree](https://citationtree.org)
 
 ## Peer Review
 
