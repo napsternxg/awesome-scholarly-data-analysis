@@ -503,6 +503,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Publication and Publisher Info
 
 * [Interactive sheet for deciding publication strategy and open science](https://docs.google.com/spreadsheets/d/1ALIr6i-ufawnR1_tZBbF_Io7ihWpLZKBOD0aLhRRp0U/edit#gid=165846403) - [Tweet](https://twitter.com/jeroenbosman/status/1492876367976968193)
+* * [JournalCompass](https://journalcompass.com) - Free bilingual journal finder with an AI journal matcher: search 43,499 journals by CAS quartile, impact factor, review time and APC to find the right journal for your paper.
 
 ## Author Name Disambiguation
 * [Bibliographic Entity Automatic Recognition and Disambiguation](https://github.com/inspirehep/beard) - [paper](https://arxiv.org/abs/1508.07744)
