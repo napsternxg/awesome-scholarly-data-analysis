@@ -56,6 +56,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Semantic Scholar Corpus](https://www.semanticscholar.org/product/api)
 * [CiteSeer](https://csxstatic.ist.psu.edu/downloads/data)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
+* [Retracted-citation rate in recent biomedical papers](https://github.com/Manusights/retracted-citation-study) - Per-journal rates at which 2025 papers cite retracted, expression-of-concern, or corrected references. 12,402 papers across 54 journals, 744,770 citations checked against the Retraction Watch Database and Crossref `update-to`. CC BY 4.0.
 * [CORA datasets for citation string parsing](https://people.cs.umass.edu/~mccallum/data.html)
 * [Humanities and multilingual citation string parsing Flux-CiM and ICONIP](https://github.com/knmnyn/ParsCit/tree/master/doc) see [Neural ParsCit paper](https://link.springer.com/article/10.1007/s00799-018-0242-1) for details
 * [Citation string parsing data for social sciences for English and German citations](https://github.com/exciteproject/EXgoldstandard) - [comparison with Grobid and Cermine](https://github.com/exciteproject/Exparser/tree/master/Evaluation/Ours)
