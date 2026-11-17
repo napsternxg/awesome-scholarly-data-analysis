@@ -460,6 +460,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Citation Gecko - Find related papers](https://www.citationgecko.com)
 * [pySciSci - Python tool for working with MAG, PubMed, etc.](https://github.com/SciSciCollective/pyscisci)
 * [ACM Digital Library](https://dl.acm.org/)
+* [SixSentences - self-hostable workspace for boolean literature search, screening, data analysis and writing, running searches offline against versioned local snapshots of the corpus](https://github.com/SixSentences/sixsentences)
 * [Researchers Friend: Bibliometric Analysis](https://researchersfriend.org/bibliometric-analysis/)
 
 ## Tools for collecting open access papers
