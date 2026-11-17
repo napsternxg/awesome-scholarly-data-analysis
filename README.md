@@ -139,7 +139,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [A dataset of publication records for Nobel laureates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NJ5RN)
 * [Rich Context Text Analysis Competition](https://github.com/Coleridge-Initiative/rich-context-competition)
 * [CitationGraph](https://CitationGraph.org)
-  
+* [Retracted Papers and Citation Integrity Graph](https://huggingface.co/datasets/ashesborn6/retracted-papers-citation-integrity-graph) - 98,868 paper records and 144,814 citation edges with source-attributed retraction status (OpenAlex, Crossref, Retraction Watch) for 197 retracted works. CC0, JSONL.
+
 ## Peer Review
 
 * [PeerRead - paper drafts, reviews, and accept/reject decision](https://github.com/allenai/PeerRead)
@@ -479,6 +480,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 * [WOS2Pajek](http://vladowiki.fmf.uni-lj.si/doku.php?id=pajek:wos2pajek)
+* [HistCite Mac](https://github.com/yangnim21029/histcite-mac) - Free, open-source macOS tool for bibliometric analysis and citation network visualization from Web of Science exports; an independent implementation of HistCite workflows.
 
 ## Language Processing and Information Extraction
 
