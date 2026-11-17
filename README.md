@@ -56,6 +56,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Semantic Scholar Corpus](https://www.semanticscholar.org/product/api)
 * [CiteSeer](https://csxstatic.ist.psu.edu/downloads/data)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed)
+* [Retracted-citation rate in recent biomedical papers](https://github.com/Manusights/retracted-citation-study) - Per-journal rates at which 2025 papers cite retracted, expression-of-concern, or corrected references. 12,402 papers across 54 journals, 744,770 citations checked against the Retraction Watch Database and Crossref `update-to`. CC BY 4.0.
 * [CORA datasets for citation string parsing](https://people.cs.umass.edu/~mccallum/data.html)
 * [Humanities and multilingual citation string parsing Flux-CiM and ICONIP](https://github.com/knmnyn/ParsCit/tree/master/doc) see [Neural ParsCit paper](https://link.springer.com/article/10.1007/s00799-018-0242-1) for details
 * [Citation string parsing data for social sciences for English and German citations](https://github.com/exciteproject/EXgoldstandard) - [comparison with Grobid and Cermine](https://github.com/exciteproject/Exparser/tree/master/Evaluation/Ours)
@@ -139,6 +140,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [A dataset of publication records for Nobel laureates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NJ5RN)
 * [Rich Context Text Analysis Competition](https://github.com/Coleridge-Initiative/rich-context-competition)
 * [CitationTree](https://citationtree.org)
+* [CitationGraph](https://CitationGraph.org)
+* [Retracted Papers and Citation Integrity Graph](https://huggingface.co/datasets/ashesborn6/retracted-papers-citation-integrity-graph) - 98,868 paper records and 144,814 citation edges with source-attributed retraction status (OpenAlex, Crossref, Retraction Watch) for 197 retracted works. CC0, JSONL.
 
 ## Peer Review
 
@@ -479,6 +482,8 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 * [Nobel nominations and recipients](https://ria.ru/infografika/20151210/1339535142.html?lang=en)
 * [WOS2Pajek](http://vladowiki.fmf.uni-lj.si/doku.php?id=pajek:wos2pajek)
+* [Citation Map](https://citationmap.com) - Web tool that plots a researcher's citing institutions on an interactive world map from a Google Scholar profile; complements network-style visualizers (VOSviewer, CitNetExplorer) with a geographic view.
+* [HistCite Mac](https://github.com/yangnim21029/histcite-mac) - Free, open-source macOS tool for bibliometric analysis and citation network visualization from Web of Science exports; an independent implementation of HistCite workflows.
 
 ## Language Processing and Information Extraction
 
