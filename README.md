@@ -462,6 +462,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [ACM Digital Library](https://dl.acm.org/)
 * [SixSentences - self-hostable workspace for boolean literature search, screening, data analysis and writing, running searches offline against versioned local snapshots of the corpus](https://github.com/SixSentences/sixsentences)
 * [Researchers Friend: Bibliometric Analysis](https://researchersfriend.org/bibliometric-analysis/)
+* [Google Scholar API - Apify Actor that returns Google Scholar search results, citation formats, author profiles with h-index and per-article citation history as JSON](https://apify.com/johnvc/google-scholar-api)
 
 ## Tools for collecting open access papers
 
