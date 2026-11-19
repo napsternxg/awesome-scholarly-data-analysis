@@ -60,6 +60,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CORA datasets for citation string parsing](https://people.cs.umass.edu/~mccallum/data.html)
 * [Humanities and multilingual citation string parsing Flux-CiM and ICONIP](https://github.com/knmnyn/ParsCit/tree/master/doc) see [Neural ParsCit paper](https://link.springer.com/article/10.1007/s00799-018-0242-1) for details
 * [Citation string parsing data for social sciences for English and German citations](https://github.com/exciteproject/EXgoldstandard) - [comparison with Grobid and Cermine](https://github.com/exciteproject/Exparser/tree/master/Evaluation/Ours)
+* [citeparse-wild-700](https://huggingface.co/datasets/hedwigai/citeparse-wild-700) - 700 reference strings as deposited with Crossref, each scored against the cited DOI's own Crossref record (no hand labels). CC0.
 * [CrossRef DOI URLs](https://archive.org/details/doi-urls)
 * [DOIboost (Crossres + MAG + ORCID + Unpaywall)](https://zenodo.org/record/3559699)
 * [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
@@ -245,6 +246,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 ## Information Extraction and NLP
 * [Citation Parsing](http://csxstatic.ist.psu.edu/about/scholarly-information-extraction)
 * [Citation Parsing in humanities](https://github.com/dhlab-epfl/LinkedBooksDeepReferenceParsing)
+* [citeparse](https://github.com/un-seen/citeparse) - Reference strings to CSL-JSON or BibTeX with a small local model (32M or 150M parameters), with optional Crossref lookup. Apache-2.0.
 * [Sentences tagged for Drug Disease pairs](https://github.com/roamanalytics/roamresearch/tree/master/BlogPosts/Features_for_healthcare)
 * [Document Summarization and citation span identification](https://github.com/WING-NUS/scisumm-corpus)
 * [ACL Anthology human summaries for 1000 papers](https://michiyasunaga.github.io/projects/scisumm_net/)
