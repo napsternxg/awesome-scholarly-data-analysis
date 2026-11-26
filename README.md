@@ -142,6 +142,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CitationTree](https://citationtree.org)
 * [CitationGraph](https://CitationGraph.org)
 * [Retracted Papers and Citation Integrity Graph](https://huggingface.co/datasets/ashesborn6/retracted-papers-citation-integrity-graph) - 98,868 paper records and 144,814 citation edges with source-attributed retraction status (OpenAlex, Crossref, Retraction Watch) for 197 retracted works. CC0, JSONL.
+* [AI Science Tracker](https://aisciencetracker.org/) - Open catalog (CC BY 4.0) of about 5,000 scientific results enabled by AI since 2020, each linked to its paper or announcement, with JSON/CSV downloads and an API
 
 ## Peer Review
 
